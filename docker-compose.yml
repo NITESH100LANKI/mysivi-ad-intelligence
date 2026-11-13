@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+  # n8n Workflow Automation Engine
+  n8n:
+    image: docker.n8n.io/n8nio/n8n:latest
+    container_name: mysivi-n8n
+    restart: unless-stopped
+    ports:
+      - "5678:5678"
+    environment:
+      - N8N_HOST=localhost
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=http
+      - NODE_ENV=production
+      - WEBHOOK_URL=http://localhost:5678/
+      - GENERIC_TIMEZONE=Asia/Kolkata
+      - N8N_BLOCK_ENV_ACCESS_IN_NODE=false
+      - GOOGLE_GEMINI_API_KEY=${GOOGLE_GEMINI_API_KEY}
+      - APIFY_API_TOKEN=${APIFY_API_TOKEN}
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ./data:/data
+      - ./reports:/reports
+      - ./n8n:/workflows
+    depends_on:
+      - report-service
+    networks:
+      - mysivi-network
+
+  # Python PDF Report Generation Microservice
+  report-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mysivi-report-service
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT_REPORT_SERVICE=5000
+    volumes:
+      - ./reports:/app/reports
+      - ./data:/app/data
+    networks:
+      - mysivi-network
+
+volumes:
+  n8n_data:
+
+networks:
+  mysivi-network:
+    driver: bridge
+

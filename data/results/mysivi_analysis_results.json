@@ -1,0 +1,998 @@
+{
+  "project": "MySivi Ad Intelligence",
+  "source": "Meta Ad Library (via Apify Actor apify/facebook-ads-scraper)",
+  "execution_timestamp": "2026-11-12T17:13:30.692374",
+  "execution_mode": "REPLAY",
+  "collection_summary": {
+    "source": "Meta Ad Library via Apify Actor (apify/facebook-ads-scraper)",
+    "run_id": "rj6SNnqt6EZKwY6d9",
+    "dataset_id": "EITwCgU3aub104ezB",
+    "status": "SUCCEEDED",
+    "items_collected": 10,
+    "search_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IN&is_targeted_country=false&media_type=all&q=%22MySivi%22&search_type=keyword_exact_phrase&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+    "timestamp": "2026-11-12T17:09:38.428553",
+    "note": "Replayed from verified Apify dataset EITwCgU3aub104ezB without initiating new actor runs ($0 cost).",
+    "raw_items_collected": 10,
+    "duplicates_filtered": 6,
+    "unique_ads_analyzed": 4
+  },
+  "advertisements": [
+    {
+      "ad": {
+        "internal_id": "MYSIVI-AD-001",
+        "ad_id": "946551737840774",
+        "page_name": "MySivi Spoken English App",
+        "page_id": "974103675777955",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=946551737840774",
+        "primary_text": "🌍 Speak English fluently with the power of AI! 🧠 Try MySivi for real progress. Start your trial now at just ₹1/-! 🔓💬 \n\n#LearnEnglish #AIpowered #MySivi #FluencyJourney 🚀",
+        "hook": "🌍 Speak English fluently with the power of AI!",
+        "headline": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+        "description": "itunes.apple.com",
+        "cta": "Install now",
+        "landing_page_url": "https://sivi.ai",
+        "image_urls": [
+          "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/801786036_904478145791011_651198784096930409_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GoPhnDsNYNwQ7kNvwFQ6qQx&_nc_oc=AdpiyYuiyezUZh4pYyr6o_YdvgchgpYwiVqd3LaqfgUZHqLBPPTWJB-X_QSM7qfBYWk&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQQ3RFHYoHt73P00oF_jI8RkS90qX_uA7By0bHMIiSKXzQ&oe=6AFB6E6B",
+          "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/801326785_2166283630984205_5928882845031013483_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rtWSAEpNWqgQ7kNvwExjTY5&_nc_oc=AdqgpQzW-zC6vdfBwIJAxX22YErHq64nZyrZVSD8V_Yo3eATrm-urlWZ89L-vWJqRpk&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQT0Epz-beVnoXl5QTTO21UtoqRcSa2bqVYpuP5cs8kQxQ&oe=6AFB848F"
+        ],
+        "video_urls": [
+          "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPAqcDuBn1qiqkShbQ6p3eL3RVXnFfJjPxFh1udimORGmQ2laAnpLFbKiNvDIokcyb22ixNV9hxSbR1_cigqFjbKQW3EDbuZ3x9kK1APqk_Mg.mp4?_nc_cat=100&_nc_oc=AdqQRfH60vGC1aqoLzEOWK0Y99baV_0IgbL3Keoo5TIhgyHt4WEBHlHXMQR5WAuE3qo&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=J8fJ8TGKoVsQ7kNvwHrPh9j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDIxMzE1OTgwNDgwOTQsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=22994630c9b52902&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QzQwQkVBQUNBMzZGMzVCRTIxMzdERDA5RDVCNkVCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRCNDY1MjIxODRBNEMxMkIwRDNENUU4Q0YzRUYxRDg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa87cfMqsjYBRUCKAJDMywXQD5ybpeNT98YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTp47ZmPUz-e13jV4WMmRORFzJbDdL66uiXwYSRx_KHqQ&oe=6AFB5750",
+          "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMPFSeN-ont9O-1m3v834oDl8pa70dqbkW7XAXkasYp-sLmXhRPG7jrdTPKROTpy3W615_cC7zSatg-4Ov1a6KyKrVX7tyM8Fb-x118LF97zQ.mp4?_nc_cat=111&_nc_oc=AdpyNDxLdb9dyB3cKtEvh5PAYLSyDYgUN7skMXGNYZmkDj7Yat0RB9qJiWa4WV72ezM&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=_xBO9yH1AGUQ7kNvwGc29YH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTk4NTA1MzUxMjQ5MDIsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7eef3f29e5527bf5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DODQ2Mjc0QzZEQkIyQzM4QTA0RTM0QTlBNzg2RUU5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlFNDhFM0RERDM4NTNBNjUwRUY1QTQzNkZENjZDRkJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbM_oeg5KSgBhUCKAJDMywXQD5ybpeNT98YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTPsd3Tvnhqs7dFRMoUEuUJoI5nz0QStsnw0CS7AUZ2CQ&oe=6AFB5E7D"
+        ],
+        "start_date": "Unavailable",
+        "end_date": "Active (No end date specified)",
+        "is_active": true,
+        "publisher_platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "impression_info": "Unavailable in standard commercial ad library view",
+        "media_type": "video",
+        "raw_snapshot": {
+          "brandedContent": null,
+          "pageId": "974103675777955",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/61584601834661/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "MySivi Spoken English App",
+          "pageProfilePictureUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/801396624_1146853334669150_4771199544281445577_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=365pFvw2OwAQ7kNvwFV5zJC&_nc_oc=AdpRkuZIYXCK0t8JrjwCMCR2PYM0gtb6fQfF3XiG647P0MgoDc2lDlXToy0dJJdXNzM&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQTHvINNyvdNa4o-wJZsfepaQ5PHJaYZIBbwT6R_sNxL-A&oe=6AFB7A72",
+          "event": null,
+          "caption": "itunes.apple.com",
+          "ctaText": "Install now",
+          "cards": [
+            {
+              "body": "🌍 Speak English fluently with the power of AI! 🧠 Try MySivi for real progress. Start your trial now at just ₹1/-! 🔓💬 \n\n#LearnEnglish #AIpowered #MySivi #FluencyJourney 🚀",
+              "ctaType": "INSTALL_MOBILE_APP",
+              "caption": "",
+              "linkDescription": null,
+              "linkUrl": "http://itunes.apple.com/app/id1644736135",
+              "title": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+              "ctaText": "Install Now",
+              "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPAqcDuBn1qiqkShbQ6p3eL3RVXnFfJjPxFh1udimORGmQ2laAnpLFbKiNvDIokcyb22ixNV9hxSbR1_cigqFjbKQW3EDbuZ3x9kK1APqk_Mg.mp4?_nc_cat=100&_nc_oc=AdqQRfH60vGC1aqoLzEOWK0Y99baV_0IgbL3Keoo5TIhgyHt4WEBHlHXMQR5WAuE3qo&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=J8fJ8TGKoVsQ7kNvwHrPh9j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDIxMzE1OTgwNDgwOTQsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=22994630c9b52902&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QzQwQkVBQUNBMzZGMzVCRTIxMzdERDA5RDVCNkVCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRCNDY1MjIxODRBNEMxMkIwRDNENUU4Q0YzRUYxRDg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa87cfMqsjYBRUCKAJDMywXQD5ybpeNT98YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTp47ZmPUz-e13jV4WMmRORFzJbDdL66uiXwYSRx_KHqQ&oe=6AFB5750",
+              "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/801786036_904478145791011_651198784096930409_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GoPhnDsNYNwQ7kNvwFQ6qQx&_nc_oc=AdpiyYuiyezUZh4pYyr6o_YdvgchgpYwiVqd3LaqfgUZHqLBPPTWJB-X_QSM7qfBYWk&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQQ3RFHYoHt73P00oF_jI8RkS90qX_uA7By0bHMIiSKXzQ&oe=6AFB6E6B",
+              "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQM3wnBScmVyB3P2iPT2uCVBcWju-fFSDo6p7efkXNwVt2BnZFdSxZWQJLAKDHH5wWs4f0txP12OeluHxCTRL8NVnUuSq3AL2VxlASulLw.mp4?_nc_cat=100&_nc_oc=AdqEdJaEsV7lk3Vys-T1Lc0sUqtaQ--jd0wBKzBeAfPE_tFbQCjvpxqn_lQEg3VZuVc&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=hQXUfDkXOc0Q7kNvwFIsz42&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYwMjEzMTU5ODA0ODA5NCwiYXNzZXRfYWdlX2RheXMiOjY0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQwznJF_Ky9mzwrXjfzV-2n8_O2qITENae_3H6HRgsz9g&oe=6AFB756E",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            },
+            {
+              "body": "🌍 Speak English fluently with the power of AI! 🧠 Try MySivi for real progress. Start your trial now at just ₹1/-! 🔓💬 \n\n#LearnEnglish #AIpowered #MySivi #FluencyJourney 🚀",
+              "ctaType": "INSTALL_MOBILE_APP",
+              "caption": "",
+              "linkDescription": null,
+              "linkUrl": "http://itunes.apple.com/app/id1644736135",
+              "title": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+              "ctaText": "Install Now",
+              "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMPFSeN-ont9O-1m3v834oDl8pa70dqbkW7XAXkasYp-sLmXhRPG7jrdTPKROTpy3W615_cC7zSatg-4Ov1a6KyKrVX7tyM8Fb-x118LF97zQ.mp4?_nc_cat=111&_nc_oc=AdpyNDxLdb9dyB3cKtEvh5PAYLSyDYgUN7skMXGNYZmkDj7Yat0RB9qJiWa4WV72ezM&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=_xBO9yH1AGUQ7kNvwGc29YH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTk4NTA1MzUxMjQ5MDIsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7eef3f29e5527bf5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DODQ2Mjc0QzZEQkIyQzM4QTA0RTM0QTlBNzg2RUU5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlFNDhFM0RERDM4NTNBNjUwRUY1QTQzNkZENjZDRkJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbM_oeg5KSgBhUCKAJDMywXQD5ybpeNT98YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTPsd3Tvnhqs7dFRMoUEuUJoI5nz0QStsnw0CS7AUZ2CQ&oe=6AFB5E7D",
+              "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/801326785_2166283630984205_5928882845031013483_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rtWSAEpNWqgQ7kNvwExjTY5&_nc_oc=AdqgpQzW-zC6vdfBwIJAxX22YErHq64nZyrZVSD8V_Yo3eATrm-urlWZ89L-vWJqRpk&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQT0Epz-beVnoXl5QTTO21UtoqRcSa2bqVYpuP5cs8kQxQ&oe=6AFB848F",
+              "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQNhShp-JpUMJilVc6mD2FZ26QrB-zyzd-InnB2YyHN6XU0ZzDHIqcdM0CE0LXshoBS_P6XlWGZ3RMH-fIrcKhsfm2p6QZz1XWPbRHoiHQ.mp4?_nc_cat=100&_nc_oc=AdqR2misFlcEuBtPNu5HF5JK0qe2DdHMdIkESBnROFb0Glt6OwYZ-ZzlO--9OLE7Dtg&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=-SD3gsrGssEQ7kNvwGcE0v5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc1OTg1MDUzNTEyNDkwMiwiYXNzZXRfYWdlX2RheXMiOjY0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRmJ7Yr7v2af1nVwjN3zfAjqzUOu4XVBIKsz_GDnnQ2qA&oe=6AFB6DB6",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            }
+          ],
+          "body": {
+            "text": "🌍 Speak English fluently with the power of AI! 🧠 Try MySivi for real progress. Start your trial now at just ₹1/-! 🔓💬 \n\n#LearnEnglish #AIpowered #MySivi #FluencyJourney 🚀"
+          },
+          "ctaType": "INSTALL_MOBILE_APP",
+          "displayFormat": "DCO",
+          "linkDescription": null,
+          "linkUrl": "http://itunes.apple.com/app/id1644736135",
+          "images": [],
+          "pageCategories": [
+            "School"
+          ],
+          "pageLikeCount": 1582,
+          "title": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+          "videos": [],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        }
+      },
+      "analysis": {
+        "hook": "Speak English fluently with the power of AI!",
+        "body": "Speak English fluently with the power of AI! Try MySivi for real progress. Start your trial now at just ₹1/-! #LearnEnglish #AIpowered #MySivi #FluencyJourney",
+        "headline": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+        "cta": "Install now",
+        "target_audience": "Individuals in India (inference based on ₹1 and Hindi headline) who aspire to improve their spoken English fluency, including students, professionals, or anyone seeking enhanced communication skills, and are open to technology-driven learning solutions.",
+        "customer_pain_point": "Difficulty achieving fluency in spoken English, lack of confidence in English communication, and potentially the high cost or ineffectiveness of traditional language learning methods.",
+        "value_proposition": "Achieve genuine progress and fluency in spoken English through an innovative, AI-powered learning platform.",
+        "usp": "An AI-powered platform specifically designed for spoken English fluency, offering an exceptionally low-cost trial (₹1) to encourage immediate engagement.",
+        "marketing_angle": "Problem-solution (lack of fluency addressed by AI), low barrier to entry/risk reversal (₹1 trial), and technology-driven efficiency.",
+        "persuasion_techniques": "Low-cost trial/Risk Reversal: The ₹1 trial significantly reduces the perceived financial risk for potential users.; Benefit-driven language: Focuses on the desired outcome ('Speak English fluently', 'real progress').; Authority/Innovation: Highlights the 'power of AI' to suggest advanced and effective methodology.; Localization: The Hindi headline 'MySivi Se Shuru Karo – Sirf ₹1 Mein' directly addresses the target Indian audience in their local language, enhancing relevance and connection.",
+        "strengths": [
+          "Clear and compelling hook that immediately addresses a key user desire with a modern solution.",
+          "Highly attractive and low-friction trial offer (₹1) significantly lowers the barrier to entry.",
+          "Explicitly highlights 'AI' as a core technology, appealing to users seeking innovative learning methods.",
+          "Localized headline in Hindi demonstrates strong audience understanding and cultural relevance.",
+          "Direct and clear Call-to-Action ('Install now') guides users effectively."
+        ],
+        "weaknesses": [
+          "Critical Landing Page Mismatch: The ad promotes an 'English Spoken App' (per page name and copy), but the provided landing page URL (sivi.ai) is for an 'AI generative design platform,' creating a severe disconnect and potential user confusion.",
+          "Lack of specific AI feature explanation: While 'power of AI' is mentioned, the ad doesn't elaborate on *how* AI facilitates fluency (e.g., personalized feedback, interactive practice scenarios).",
+          "Generic description: The 'itunes.apple.com' description is uninformative and adds no value to the ad.",
+          "Absence of explicit social proof: The ad copy lacks testimonials, user numbers, or success metrics to build further credibility."
+        ],
+        "improvement_suggestions": [
+          "Rectify Landing Page URL: Immediately correct the landing page URL to direct users to the actual MySivi Spoken English App download page or a relevant product page. This is the most critical fix for campaign effectiveness.",
+          "Elaborate on AI Benefits: Briefly explain the unique AI features that facilitate fluency, such as 'AI-powered pronunciation analysis,' 'real-time conversational practice,' or 'personalized learning paths,' to demonstrate tangible value.",
+          "Enhance Description Field: Utilize the description field to highlight a key benefit, a unique feature, or a strong call to value, rather than a generic URL.",
+          "Integrate Social Proof: Add a concise testimonial, a statistic (e.g., 'Trusted by 100,000+ learners'), or a success story to build credibility and trust."
+        ],
+        "creative_summary": "The ad effectively uses a low-cost trial and AI-powered promise to attract users for English fluency, leveraging strong localization. However, a critical mismatch between the ad's content (English app) and the provided landing page URL (AI design platform) severely undermines its effectiveness and credibility.",
+        "media_analysis_notes": "The ad is identified as a 'video' media type, which is ideal for demonstrating app functionality and user experience. However, without direct access to the video content, the analysis is limited to the textual elements, and visual composition implications cannot be fully assessed. The provided image/video URLs are not directly viewable in this context."
+      },
+      "score": {
+        "hook_effectiveness": 8.5,
+        "message_clarity": 9.0,
+        "value_prop_usp": 8.0,
+        "target_audience_relevance": 8.5,
+        "trust_social_proof": 6.0,
+        "cta_effectiveness": 7.5,
+        "creative_execution": 8.0,
+        "differentiation": 8.5,
+        "total_score": 81.0,
+        "scoring_explanations": {
+          "hook_effectiveness": "The hook 'Speak English fluently with the power of AI!' is highly effective, immediately addressing a core desire with a modern solution and an engaging emoji, capturing attention quickly.",
+          "message_clarity": "The message is exceptionally clear, stating the problem it solves (fluency), the solution (MySivi AI), and the low-cost trial offer (₹1), making it easy for the audience to understand the core proposition without ambiguity.",
+          "value_prop_usp": "The value proposition of achieving 'real progress' and 'fluency' is clear and desirable. The USP lies in the 'power of AI' and the highly attractive '₹1 trial,' which effectively differentiates it from traditional or higher-priced competitors.",
+          "target_audience_relevance": "The ad is highly relevant to an Indian audience (indicated by ₹1 and Hindi headline) seeking English fluency, directly addressing a common aspiration for personal and professional growth in that demographic.",
+          "trust_social_proof": "The ad lacks explicit social proof like testimonials or user numbers in its text. While the ₹1 trial builds some initial trust by reducing financial risk, the absence of verifiable claims limits a higher score. Crucially, the discrepancy between the ad's content (English app) and the provided landing page URL (AI design platform) would severely erode trust if this were a live campaign setup.",
+          "cta_effectiveness": "'Install now' is a direct and clear call to action, guiding users to the next step for an app. It is functional, though it could be slightly more aligned with the 'start your trial' message for maximum impact.",
+          "creative_execution": "The ad uses emojis effectively to break up text and add visual appeal. The primary text flows well, and the localized Hindi headline is a strong strategic choice for connecting with the target Indian market, demonstrating good overall execution.",
+          "differentiation": "The 'power of AI' combined with the '₹1 trial' offers a strong differentiation point in a competitive language learning market, appealing to users looking for modern, affordable, and effective solutions that stand out."
+        }
+      },
+      "rank": 1,
+      "is_best_creative": true
+    },
+    {
+      "ad": {
+        "internal_id": "MYSIVI-AD-003",
+        "ad_id": "2966208700429750",
+        "page_name": "MySivi",
+        "page_id": "104392002393583",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=2966208700429750",
+        "primary_text": "हुशारीनं शिका, कष्ट न करता!\nMySivi AI सोबत खरी English बोलायची प्रॅक्टिस करा.\nआजच ट्रायल सुरू करा ₹1/- ला आणि आत्मविश्वास वाढवा!",
+        "hook": "हुशारीनं शिका, कष्ट न करता!",
+        "headline": "MySivi सोबत सुरुवात करा – केवळ ₹1 मध्ये",
+        "description": "play.google.com",
+        "cta": "Install now",
+        "landing_page_url": "https://sivi.ai",
+        "image_urls": [
+          "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/863451131_1145325511258448_3569003819836215703_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dH8GnCYhBjMQ7kNvwHPiE5i&_nc_oc=AdqcaEfcSO9ftancmJRRhE112l_jsP-mOc575uastUGWTTN80uFWfsRFBxXllSr2TEs&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQTP86m66ITvHtyGuJsm6pvC5-TRVt-UA6bAxxQQaSUfbw&oe=6AFB5AD2",
+          "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/862551148_1427466702208702_6308639864857402593_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MN8wUo8ki2YQ7kNvwEJcGf_&_nc_oc=Adqia1H_rYBV1VvqYMYAXLa_w2ALWSaLyjCwNUrNSlmuVwx7YA6z7umc-HP_Zth_aNs&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQRhz59V7ylJeMOnC_XSyUuqowakSOTXPBhuACrYtoXQgw&oe=6AFB6EEC"
+        ],
+        "video_urls": [
+          "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMd1xyM-QmKa-JxsC0ri9vcBERyvSgQ2925bm4vfzQzZ5I39Lfz4Ery-87DeayZ8ekBGzfD2qkUl2AHXGW4c7NVmLkif1oIM9mBEXdZyqI44Q.mp4?_nc_cat=101&_nc_oc=AdqXOt27Ovpk4xk_COsgjeNBJ7NTcsFKR61ujIiPF-FMgQdHer_yvh9iZWq2e-BDVT4&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=XAp5bjTQzioQ7kNvwGvzQwa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNDM2ODU1ODgwMDUzMjksImFzc2V0X2FnZV9kYXlzIjoxOSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d54ed609f42e43c9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRDQyNzI4MzlFNTE0NTMyQUZFNDNDQzkzMkYzQUYzNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzOTU3NkY3QzQ2RDRFNDM4MjgyNDI5OEY5NTQ5NTNCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaix6nToYuIBBUCKAJDMywXQFCGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQZIxpOD3wFs_5S6bUnm-Ba69Ww3w6UxsM8GiB3v4oC3A&oe=6AFB7FA3",
+          "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPGjWZDGVXDR5PVzcj9LqizpuZkOXz9UP2pjmBHLaOKKfAuNXmppzBgs_OIKwnAzohJuG1muLpWTPxQ_QLEw2OAJXRQgrUnAb2-9L3z33CtYA.mp4?_nc_cat=102&_nc_oc=AdoF3HvpE62eVt9H9v8Q3Ril-cFBxV-R2Rs607BEVPriDgoTznML54kMQkcn0LOKADM&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=9F6PmwUFqAUQ7kNvwFsjJkO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk1MTI1MTk4MTAyMTQxMiwiYXNzZXRfYWdlX2RheXMiOjE5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d4276a128ee4927e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQTI4NTRGNkMzOTU0RjFDQkE5RThBQTE5MURGQTk3Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNDODQ5ODM2QjFEOTRDQzBBNzFGMDM0NDM3ODFDMDE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIw93Gk8qwAxUCKAJDMywXQFCGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRZB8Oa0J2uOW3GVuiui_CeW2lUeuHwlREl27rs7uXt4w&oe=6AFB78A6"
+        ],
+        "start_date": "Unavailable",
+        "end_date": "Active (No end date specified)",
+        "is_active": true,
+        "publisher_platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "impression_info": "Unavailable in standard commercial ad library view",
+        "media_type": "video",
+        "raw_snapshot": {
+          "brandedContent": null,
+          "pageId": "104392002393583",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/my.siviai/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "MySivi",
+          "pageProfilePictureUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/862620679_2207376350196322_3488776103985652684_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=opCzVf-f_aIQ7kNvwFA_Kar&_nc_oc=AdoTgbNRFH4xRKPSrmWM84L19oMISnpPU7RM0J3RYWSYEPRL1yHT5m0rfrMukWSI_ho&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQQ6Vw6ueVzHhpHuHUqa5V9cbAvJTzNJxRaP4f8OKywoow&oe=6AFB64F1",
+          "event": null,
+          "caption": "play.google.com",
+          "ctaText": "Install now",
+          "cards": [
+            {
+              "body": "हुशारीनं शिका, कष्ट न करता!\nMySivi AI सोबत खरी English बोलायची प्रॅक्टिस करा.\nआजच ट्रायल सुरू करा ₹1/- ला आणि आत्मविश्वास वाढवा!",
+              "ctaType": "INSTALL_MOBILE_APP",
+              "caption": "",
+              "linkDescription": null,
+              "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+              "title": "MySivi सोबत सुरुवात करा – केवळ ₹1 मध्ये",
+              "ctaText": "Install Now",
+              "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMd1xyM-QmKa-JxsC0ri9vcBERyvSgQ2925bm4vfzQzZ5I39Lfz4Ery-87DeayZ8ekBGzfD2qkUl2AHXGW4c7NVmLkif1oIM9mBEXdZyqI44Q.mp4?_nc_cat=101&_nc_oc=AdqXOt27Ovpk4xk_COsgjeNBJ7NTcsFKR61ujIiPF-FMgQdHer_yvh9iZWq2e-BDVT4&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=XAp5bjTQzioQ7kNvwGvzQwa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNDM2ODU1ODgwMDUzMjksImFzc2V0X2FnZV9kYXlzIjoxOSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d54ed609f42e43c9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRDQyNzI4MzlFNTE0NTMyQUZFNDNDQzkzMkYzQUYzNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzOTU3NkY3QzQ2RDRFNDM4MjgyNDI5OEY5NTQ5NTNCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaix6nToYuIBBUCKAJDMywXQFCGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQZIxpOD3wFs_5S6bUnm-Ba69Ww3w6UxsM8GiB3v4oC3A&oe=6AFB7FA3",
+              "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/863451131_1145325511258448_3569003819836215703_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dH8GnCYhBjMQ7kNvwHPiE5i&_nc_oc=AdqcaEfcSO9ftancmJRRhE112l_jsP-mOc575uastUGWTTN80uFWfsRFBxXllSr2TEs&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQTP86m66ITvHtyGuJsm6pvC5-TRVt-UA6bAxxQQaSUfbw&oe=6AFB5AD2",
+              "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQMhrtE5deI5jWa4lqPEKts7FXP1CYjkRrquCQRGxkC4rBOlqtCXXeqdVexnGgfizJ3WwCvPd6DdfFQGimers7bOPWPRzBnv6HvLXn8dwg.mp4?_nc_cat=102&_nc_oc=AdopRNn0fweMaB4lqbHE8cwJhSY2ddBkhlFTHq-KhtLoPsxmaLIG1u7P1-82leLw1ZU&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=uc5i8A71cXgQ7kNvwFTB1Il&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE0MzY4NTU4ODAwNTMyOSwiYXNzZXRfYWdlX2RheXMiOjE5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRJ4GdoWqUK8epK6enopotgGKpxs5sUprdhuioIYWpGBA&oe=6AFB80A4",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            },
+            {
+              "body": "हुशारीनं शिका, कष्ट न करता!\nMySivi AI सोबत खरी English बोलायची प्रॅक्टिस करा.\nआजच ट्रायल सुरू करा ₹1/- ला आणि आत्मविश्वास वाढवा!",
+              "ctaType": "INSTALL_MOBILE_APP",
+              "caption": "",
+              "linkDescription": null,
+              "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+              "title": "MySivi सोबत सुरुवात करा – केवळ ₹1 मध्ये",
+              "ctaText": "Install Now",
+              "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPGjWZDGVXDR5PVzcj9LqizpuZkOXz9UP2pjmBHLaOKKfAuNXmppzBgs_OIKwnAzohJuG1muLpWTPxQ_QLEw2OAJXRQgrUnAb2-9L3z33CtYA.mp4?_nc_cat=102&_nc_oc=AdoF3HvpE62eVt9H9v8Q3Ril-cFBxV-R2Rs607BEVPriDgoTznML54kMQkcn0LOKADM&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=9F6PmwUFqAUQ7kNvwFsjJkO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk1MTI1MTk4MTAyMTQxMiwiYXNzZXRfYWdlX2RheXMiOjE5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d4276a128ee4927e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQTI4NTRGNkMzOTU0RjFDQkE5RThBQTE5MURGQTk3Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNDODQ5ODM2QjFEOTRDQzBBNzFGMDM0NDM3ODFDMDE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIw93Gk8qwAxUCKAJDMywXQFCGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRZB8Oa0J2uOW3GVuiui_CeW2lUeuHwlREl27rs7uXt4w&oe=6AFB78A6",
+              "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/862551148_1427466702208702_6308639864857402593_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MN8wUo8ki2YQ7kNvwEJcGf_&_nc_oc=Adqia1H_rYBV1VvqYMYAXLa_w2ALWSaLyjCwNUrNSlmuVwx7YA6z7umc-HP_Zth_aNs&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQRhz59V7ylJeMOnC_XSyUuqowakSOTXPBhuACrYtoXQgw&oe=6AFB6EEC",
+              "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQOhZVUiUDacmMnrvb50boXuBL5hTsbbbEXhVZGwKTGsDPWsyA_vkCaSo0x5FLtv9BEJRc2Vnd1fwGKns8PE0xbyj1q6J_FyrrE0oxnoKg.mp4?_nc_cat=108&_nc_oc=AdrJdkr9gywbk33y6yXZWTiHw_Cvlxi9K1bkwW--dl7Mw33I1GmRHu1uV5hHo6hj8-g&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=ryc0sxyIOnMQ7kNvwH86sPk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTUxMjUxOTgxMDIxNDEyLCJhc3NldF9hZ2VfZGF5cyI6MTksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTqemYy2Bq8wQp7jdzGblYMpQg8Mgx4MhkJoTJv6zcHWg&oe=6AFB87E6",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            }
+          ],
+          "body": {
+            "text": "हुशारीनं शिका, कष्ट न करता!\nMySivi AI सोबत खरी English बोलायची प्रॅक्टिस करा.\nआजच ट्रायल सुरू करा ₹1/- ला आणि आत्मविश्वास वाढवा!"
+          },
+          "ctaType": "INSTALL_MOBILE_APP",
+          "displayFormat": "DCO",
+          "linkDescription": null,
+          "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+          "images": [],
+          "pageCategories": [
+            "Education website"
+          ],
+          "pageLikeCount": 195790,
+          "title": "MySivi सोबत सुरुवात करा – केवळ ₹1 मध्ये",
+          "videos": [],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        }
+      },
+      "analysis": {
+        "hook": "Learn smartly, without effort!",
+        "body": "Learn smartly, without effort! Practice speaking real English with MySivi AI. Start your trial today for ₹1/- and boost your confidence!",
+        "headline": "Start with MySivi – for just ₹1",
+        "cta": "Install now",
+        "target_audience": "Individuals in India (inference, based on Marathi language) who are looking to improve their English speaking skills, particularly those lacking confidence or seeking an affordable and convenient practice method. This likely includes students, job seekers, or professionals.",
+        "customer_pain_point": "Difficulty or lack of confidence in speaking English, limited opportunities for practical English conversation, and the perceived high cost or effort associated with traditional English learning methods.",
+        "value_proposition": "MySivi AI offers an effortless and affordable way to practice speaking real English, leading to increased confidence and improved fluency.",
+        "usp": "AI-powered English speaking practice combined with an extremely low-cost trial entry point (₹1).",
+        "marketing_angle": "Problem-solution (addressing English speaking challenges), cost-saving (₹1 trial), and ease/efficiency (learning 'smartly, without effort').",
+        "persuasion_techniques": "Benefit-driven framing: 'Learn smartly, without effort!' and 'boost your confidence' immediately highlight positive outcomes.; Low-barrier offer: The ₹1 trial significantly reduces perceived risk and encourages immediate action.; Urgency: 'Start your trial today' prompts immediate engagement.; Localization: Use of Marathi language directly connects with the target audience, fostering relevance and trust.",
+        "strengths": [
+          "The hook is highly effective, immediately addressing a common desire (learning without effort) and a key benefit.",
+          "The ₹1 trial offer is a powerful incentive, creating a very low barrier to entry and encouraging immediate conversion.",
+          "The ad copy is clear, concise, and directly communicates the core value proposition and call to action.",
+          "Using Marathi language demonstrates strong localization and direct relevance to the inferred target audience."
+        ],
+        "weaknesses": [
+          "The ad lacks explicit social proof such as testimonials, user numbers, or success statistics, which could build trust and credibility.",
+          "While mentioning 'MySivi AI,' the ad doesn't elaborate on specific AI features or how they make the practice 'smart' or 'effortless,' leaving some ambiguity.",
+          "The ad's focus on English speaking practice contradicts the prompt's description of MySivi (sivi.ai) as an 'AI generative design platform.' If the product is indeed a design platform, this ad is completely misaligned and targets the wrong audience with the wrong offer."
+        ],
+        "improvement_suggestions": [
+          "Incorporate specific details about the AI's capabilities (e.g., 'AI-powered feedback on pronunciation,' 'simulated conversations with AI tutors') to enhance perceived value and differentiation.",
+          "Add a brief testimonial or a statistic (e.g., 'Over X users boosted their confidence') to introduce social proof and build trust.",
+          "If MySivi is truly an AI generative design platform, this ad needs to be completely re-strategized to align with the actual product, targeting designers/marketers and showcasing design-related benefits. If it's an English learning app, consider adding a visual element in the video that clearly demonstrates the AI interaction."
+        ],
+        "creative_summary": "This ad effectively targets Marathi speakers seeking English fluency by offering an AI-powered, effortless practice solution with a compelling ₹1 trial. Its strength lies in clear, benefit-driven messaging and a low-friction entry point, though it could benefit from more specific AI feature details and social proof.",
+        "media_analysis_notes": "The ad utilizes video media, which is an excellent format for demonstrating an interactive English learning application and its user experience. However, my analysis is strictly based on the provided text and metadata, as I cannot directly view or analyze the visual composition, specific content, or overall production quality of the video."
+      },
+      "score": {
+        "hook_effectiveness": 8.5,
+        "message_clarity": 9.0,
+        "value_prop_usp": 8.0,
+        "target_audience_relevance": 8.5,
+        "trust_social_proof": 6.0,
+        "cta_effectiveness": 7.5,
+        "creative_execution": 8.0,
+        "differentiation": 8.5,
+        "total_score": 81.0,
+        "scoring_explanations": {
+          "hook_effectiveness": "Score of 8.5: The hook 'Learn smartly, without effort!' is highly effective, immediately grabbing attention by promising a desirable outcome and addressing a common pain point (difficulty/effort in learning). It sets a positive, benefit-oriented tone.",
+          "message_clarity": "Score of 9.0: The message is exceptionally clear. It states the problem (English practice), introduces the solution (MySivi AI), provides a clear offer (₹1 trial), and highlights the ultimate benefit (boost confidence). The Marathi language ensures direct understanding for the target audience.",
+          "value_prop_usp": "Score of 8.0: The value proposition of 'effortless English practice leading to confidence' is clear. The USP lies in the 'AI-powered' aspect and the highly attractive '₹1 trial,' which differentiates it from traditional or more expensive learning methods.",
+          "target_audience_relevance": "Score of 8.5: The ad's use of Marathi and its focus on English speaking practice are highly relevant to the inferred target audience of Marathi speakers looking to improve their English. The pain points addressed resonate well with this demographic.",
+          "trust_social_proof": "Score of 6.0: This score reflects a baseline. While the offer is compelling, there is no explicit social proof (e.g., testimonials, user numbers, expert endorsements, awards) provided in the ad copy to build external trust or validate claims. The ₹1 trial acts as a low-risk trust builder, but it's not traditional social proof.",
+          "cta_effectiveness": "Score of 7.5: 'Install now' is a direct and appropriate CTA for an app. Combined with the ₹1 trial, it creates a strong incentive for immediate action. It's clear and leaves no ambiguity about the next step.",
+          "creative_execution": "Score of 8.0: The ad is well-executed in terms of copy. The flow from hook to problem-solution to offer and CTA is logical and persuasive. The use of localized language (Marathi) is a strong strategic choice, enhancing resonance and engagement with the target demographic.",
+          "differentiation": "Score of 8.5: MySivi differentiates itself through two key elements: the 'AI-powered' aspect for English practice, suggesting a modern and effective approach, and the incredibly low-cost '₹1 trial,' which significantly undercuts potential competitors or traditional learning methods."
+        }
+      },
+      "rank": 1,
+      "is_best_creative": true
+    },
+    {
+      "ad": {
+        "internal_id": "MYSIVI-AD-004",
+        "ad_id": "2823814924671305",
+        "page_name": "MySivi Spoken English App",
+        "page_id": "974103675777955",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=2823814924671305",
+        "primary_text": "AI teacher apnake Bangla te English bujhiye debe. MySivi app e jekono time practice korte parben. Dine just 15 minute practice korlei easily English bolte parben",
+        "hook": "AI teacher apnake Bangla te English bujhiye debe.",
+        "headline": "₹1 theke English start korun",
+        "description": "play.google.com",
+        "cta": "Install now",
+        "landing_page_url": "https://sivi.ai",
+        "image_urls": [
+          "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/778985035_1394490169294300_4447612411564797223_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qthsiGRuuJgQ7kNvwFT9O9C&_nc_oc=AdqBEns5TN2hhm0bIfwaFWVXd5EG3KSFOKQk16REnBgmc4AVKIU1YEOV4ylwQmoyu0Y&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQSpgzfMwB5PGbk65npRiDnon517kSqfF2cxFwNvCqWb9w&oe=6AFB6D37",
+          "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/778985255_951633854646801_761341235255328617_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ElG0oz0cDE4Q7kNvwHi95eD&_nc_oc=AdqCKpONDQosHCShvGu4BBWPGSo1BtYAd5tyIVBgbOkF45QAJJtNePOiHAQkao-LYvE&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQSoCqPnLs61HnjbtY8IRtRD9FI71Me3jQlvXZ0-WH3M7g&oe=6AFB68C2"
+        ],
+        "video_urls": [
+          "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPfKurt4zh1kqVQLyuRE_Ap8iOwkw5rLFQvE-UlpqidirXmjTewentbj_tbHrt0hj8_kY_RO7i5urRw7ca_SLFvtX-NMhpnkt88UuH6QXH7EQ.mp4?_nc_cat=104&_nc_oc=Adrxbkr4QH7he5WQZalRGUi4jw7S-hYGkZ0suumS3ci8GCGZtXpPXc-9MuF_jxgw3QY&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=yNNa2waZMtUQ7kNvwGIrd7E&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODEwNzQ4NDM0NTA5MzUsImFzc2V0X2FnZV9kYXlzIjo3OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9fe7a2a528459b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjRCNzk4QTQxMEY3MEM2MTQ1NzdBNTQxOEFCQUZBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI1NDU3ODQ4NTI5QTZGRENDM0Q3RTkxRjI2RjI1MkJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu-J23kYX0BBUCKAJDMywXQD1MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSt4V6JPiRZsXEq-caaEAG7oOyqPCvUM5UNl8bySAaIag&oe=6AFB860C",
+          "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOC8wXYkKrlGYpdmsZ0gp-0hdP3i6e53SM1JChwd428XdAY5yEfLwTtuHY5T9HzmwcR62ZCE7zIyniaUoOWvPbJ6O62Ub4tvmZQPyYMvDMTqQ.mp4?_nc_cat=105&_nc_oc=AdpJyTRTazZz32Z_dPvprbH33DcheWMVx4VY5vF6_04LIuF8O970wggXm4JxWl_ZRf4&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=MNVTcDYQPCwQ7kNvwFCNFrK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTI5Njg1NTY2MjgzMjUsImFzc2V0X2FnZV9kYXlzIjo3OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=654f6d4708dbc15e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQzNkQ3MzQ2NkNFNjY1MTIwMDg5MzEzODE1NDNCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNEQxNUZENjJDRjUyOEU4MjkwMTFCQ0U1RUEyNTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKpaKl8vuKBhUCKAJDMywXQD1MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRTDcX2qxivsz2-88q0r6dmtLIPdIs53YnTaKiQvgpGRw&oe=6AFB8503"
+        ],
+        "start_date": "Unavailable",
+        "end_date": "Active (No end date specified)",
+        "is_active": true,
+        "publisher_platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "impression_info": "Unavailable in standard commercial ad library view",
+        "media_type": "video",
+        "raw_snapshot": {
+          "brandedContent": null,
+          "pageId": "974103675777955",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/61584601834661/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "MySivi Spoken English App",
+          "pageProfilePictureUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/778984980_1573084577608816_2410607419995318171_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=azvnS5jyDygQ7kNvwFJ8U7B&_nc_oc=AdqBtAfY_AJGgQF_uJTwJXUtDNK538gE8UkoJWW2x-h-Dmk4Iw2A77GTARpYeBQAM6w&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQTvj8ZqJkZw_XwLz6EslBX6Ryo8Tsb4Q8RQ2VAus-L1xQ&oe=6AFB746F",
+          "event": null,
+          "caption": "play.google.com",
+          "ctaText": "Install now",
+          "cards": [
+            {
+              "body": "AI teacher apnake Bangla te English bujhiye debe. MySivi app e jekono time practice korte parben. Dine just 15 minute practice korlei easily English bolte parben",
+              "ctaType": "INSTALL_MOBILE_APP",
+              "caption": "",
+              "linkDescription": null,
+              "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+              "title": "₹1 theke English start korun",
+              "ctaText": "Install Now",
+              "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPfKurt4zh1kqVQLyuRE_Ap8iOwkw5rLFQvE-UlpqidirXmjTewentbj_tbHrt0hj8_kY_RO7i5urRw7ca_SLFvtX-NMhpnkt88UuH6QXH7EQ.mp4?_nc_cat=104&_nc_oc=Adrxbkr4QH7he5WQZalRGUi4jw7S-hYGkZ0suumS3ci8GCGZtXpPXc-9MuF_jxgw3QY&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=yNNa2waZMtUQ7kNvwGIrd7E&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODEwNzQ4NDM0NTA5MzUsImFzc2V0X2FnZV9kYXlzIjo3OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9fe7a2a528459b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjRCNzk4QTQxMEY3MEM2MTQ1NzdBNTQxOEFCQUZBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI1NDU3ODQ4NTI5QTZGRENDM0Q3RTkxRjI2RjI1MkJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu-J23kYX0BBUCKAJDMywXQD1MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSt4V6JPiRZsXEq-caaEAG7oOyqPCvUM5UNl8bySAaIag&oe=6AFB860C",
+              "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/778985035_1394490169294300_4447612411564797223_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qthsiGRuuJgQ7kNvwFT9O9C&_nc_oc=AdqBEns5TN2hhm0bIfwaFWVXd5EG3KSFOKQk16REnBgmc4AVKIU1YEOV4ylwQmoyu0Y&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQSpgzfMwB5PGbk65npRiDnon517kSqfF2cxFwNvCqWb9w&oe=6AFB6D37",
+              "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQOc7rPHfqCzjb_BCpjpa9SoEOPEvbjP7jni-STM86-u2IpPCTMw5DhKdCoG5IkIRZWwarcrT6q3eTxJkLNTZ1-Ce9Tl5X2nnUgAtbJzSA.mp4?_nc_cat=104&_nc_oc=AdqxExjog8SaBaSxs4DMhC_1GmqpOWgNoSynBbwIjn4xuLU8GbyJ9R3GD5ckOKUINyI&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=HwPO0UObrhAQ7kNvwFfum6p&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM4MTA3NDg0MzQ1MDkzNSwiYXNzZXRfYWdlX2RheXMiOjc5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQThvvTju_4O2h3W0nChdseUyj8fE1LnDp_KS_9cnexGNA&oe=6AFB59FA",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            },
+            {
+              "body": "AI teacher apnake Bangla te English bujhiye debe. MySivi app e jekono time practice korte parben. Dine just 15 minute practice korlei easily English bolte parben",
+              "ctaType": "INSTALL_MOBILE_APP",
+              "caption": "",
+              "linkDescription": null,
+              "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+              "title": "₹1 theke English start korun",
+              "ctaText": "Install Now",
+              "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOC8wXYkKrlGYpdmsZ0gp-0hdP3i6e53SM1JChwd428XdAY5yEfLwTtuHY5T9HzmwcR62ZCE7zIyniaUoOWvPbJ6O62Ub4tvmZQPyYMvDMTqQ.mp4?_nc_cat=105&_nc_oc=AdpJyTRTazZz32Z_dPvprbH33DcheWMVx4VY5vF6_04LIuF8O970wggXm4JxWl_ZRf4&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=MNVTcDYQPCwQ7kNvwFCNFrK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTI5Njg1NTY2MjgzMjUsImFzc2V0X2FnZV9kYXlzIjo3OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=654f6d4708dbc15e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQzNkQ3MzQ2NkNFNjY1MTIwMDg5MzEzODE1NDNCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNEQxNUZENjJDRjUyOEU4MjkwMTFCQ0U1RUEyNTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKpaKl8vuKBhUCKAJDMywXQD1MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRTDcX2qxivsz2-88q0r6dmtLIPdIs53YnTaKiQvgpGRw&oe=6AFB8503",
+              "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/778985255_951633854646801_761341235255328617_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ElG0oz0cDE4Q7kNvwHi95eD&_nc_oc=AdqCKpONDQosHCShvGu4BBWPGSo1BtYAd5tyIVBgbOkF45QAJJtNePOiHAQkao-LYvE&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQSoCqPnLs61HnjbtY8IRtRD9FI71Me3jQlvXZ0-WH3M7g&oe=6AFB68C2",
+              "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQNY6VFrM-gPVI-IELqmpmijy4Om2qSOXlRKkOLuPZkDhNA4pkSWzSNsuSTpUiYdMd3XglDZZLmS0YtCNlVT-lqGyJR70d6b6VKrVNHpzQ.mp4?_nc_cat=100&_nc_oc=AdoFwfQpPXdMUfKUgsVaNgjVRdTnsweASk9BvkcGTTSSEXvB66FnOna8DUjv42YjWus&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=w_0sTHONjYsQ7kNvwHwVw1f&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcxMjk2ODU1NjYyODMyNSwiYXNzZXRfYWdlX2RheXMiOjc5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRMqQmpWU_kGrhoKMg8Zh7pkhIMPIxhO1ndjC0dAyPXbQ&oe=6AFB59DE",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            },
+            {
+              "body": "AI teacher apnake Bangla te English bujhiye debe. MySivi app e jekono time practice korte parben. Dine just 15 minute practice korlei easily English bolte parben",
+              "ctaType": "INSTALL_MOBILE_APP",
+              "caption": "",
+              "linkDescription": null,
+              "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+              "title": "₹1 theke English start korun",
+              "ctaText": "Install Now",
+              "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOC8wXYkKrlGYpdmsZ0gp-0hdP3i6e53SM1JChwd428XdAY5yEfLwTtuHY5T9HzmwcR62ZCE7zIyniaUoOWvPbJ6O62Ub4tvmZQPyYMvDMTqQ.mp4?_nc_cat=105&_nc_oc=AdpJyTRTazZz32Z_dPvprbH33DcheWMVx4VY5vF6_04LIuF8O970wggXm4JxWl_ZRf4&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=MNVTcDYQPCwQ7kNvwFCNFrK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTI5Njg1NTY2MjgzMjUsImFzc2V0X2FnZV9kYXlzIjo3OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=654f6d4708dbc15e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQzNkQ3MzQ2NkNFNjY1MTIwMDg5MzEzODE1NDNCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNEQxNUZENjJDRjUyOEU4MjkwMTFCQ0U1RUEyNTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKpaKl8vuKBhUCKAJDMywXQD1MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRTDcX2qxivsz2-88q0r6dmtLIPdIs53YnTaKiQvgpGRw&oe=6AFB8503",
+              "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/778985255_951633854646801_761341235255328617_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ElG0oz0cDE4Q7kNvwHi95eD&_nc_oc=AdqCKpONDQosHCShvGu4BBWPGSo1BtYAd5tyIVBgbOkF45QAJJtNePOiHAQkao-LYvE&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQSoCqPnLs61HnjbtY8IRtRD9FI71Me3jQlvXZ0-WH3M7g&oe=6AFB68C2",
+              "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQNY6VFrM-gPVI-IELqmpmijy4Om2qSOXlRKkOLuPZkDhNA4pkSWzSNsuSTpUiYdMd3XglDZZLmS0YtCNlVT-lqGyJR70d6b6VKrVNHpzQ.mp4?_nc_cat=100&_nc_oc=AdoFwfQpPXdMUfKUgsVaNgjVRdTnsweASk9BvkcGTTSSEXvB66FnOna8DUjv42YjWus&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=w_0sTHONjYsQ7kNvwHwVw1f&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcxMjk2ODU1NjYyODMyNSwiYXNzZXRfYWdlX2RheXMiOjc5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRMqQmpWU_kGrhoKMg8Zh7pkhIMPIxhO1ndjC0dAyPXbQ&oe=6AFB59DE",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            },
+            {
+              "body": "AI teacher apnake Bangla te English bujhiye debe. MySivi app e jekono time practice korte parben. Dine just 15 minute practice korlei easily English bolte parben",
+              "ctaType": "INSTALL_MOBILE_APP",
+              "caption": "",
+              "linkDescription": null,
+              "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+              "title": "₹1 theke English start korun",
+              "ctaText": "Install Now",
+              "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPfKurt4zh1kqVQLyuRE_Ap8iOwkw5rLFQvE-UlpqidirXmjTewentbj_tbHrt0hj8_kY_RO7i5urRw7ca_SLFvtX-NMhpnkt88UuH6QXH7EQ.mp4?_nc_cat=104&_nc_oc=Adrxbkr4QH7he5WQZalRGUi4jw7S-hYGkZ0suumS3ci8GCGZtXpPXc-9MuF_jxgw3QY&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=yNNa2waZMtUQ7kNvwGIrd7E&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODEwNzQ4NDM0NTA5MzUsImFzc2V0X2FnZV9kYXlzIjo3OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9fe7a2a528459b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjRCNzk4QTQxMEY3MEM2MTQ1NzdBNTQxOEFCQUZBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI1NDU3ODQ4NTI5QTZGRENDM0Q3RTkxRjI2RjI1MkJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu-J23kYX0BBUCKAJDMywXQD1MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSt4V6JPiRZsXEq-caaEAG7oOyqPCvUM5UNl8bySAaIag&oe=6AFB860C",
+              "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/778985035_1394490169294300_4447612411564797223_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qthsiGRuuJgQ7kNvwFT9O9C&_nc_oc=AdqBEns5TN2hhm0bIfwaFWVXd5EG3KSFOKQk16REnBgmc4AVKIU1YEOV4ylwQmoyu0Y&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQSpgzfMwB5PGbk65npRiDnon517kSqfF2cxFwNvCqWb9w&oe=6AFB6D37",
+              "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQOc7rPHfqCzjb_BCpjpa9SoEOPEvbjP7jni-STM86-u2IpPCTMw5DhKdCoG5IkIRZWwarcrT6q3eTxJkLNTZ1-Ce9Tl5X2nnUgAtbJzSA.mp4?_nc_cat=104&_nc_oc=AdqxExjog8SaBaSxs4DMhC_1GmqpOWgNoSynBbwIjn4xuLU8GbyJ9R3GD5ckOKUINyI&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=HwPO0UObrhAQ7kNvwFfum6p&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM4MTA3NDg0MzQ1MDkzNSwiYXNzZXRfYWdlX2RheXMiOjc5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQThvvTju_4O2h3W0nChdseUyj8fE1LnDp_KS_9cnexGNA&oe=6AFB59FA",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            }
+          ],
+          "body": {
+            "text": "AI teacher apnake Bangla te English bujhiye debe. MySivi app e jekono time practice korte parben. Dine just 15 minute practice korlei easily English bolte parben"
+          },
+          "ctaType": "INSTALL_MOBILE_APP",
+          "displayFormat": "DCO",
+          "linkDescription": null,
+          "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+          "images": [],
+          "pageCategories": [
+            "School"
+          ],
+          "pageLikeCount": 1582,
+          "title": "₹1 theke English start korun",
+          "videos": [],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        }
+      },
+      "analysis": {
+        "hook": "AI teacher apnake Bangla te English bujhiye debe.",
+        "body": "AI teacher apnake Bangla te English bujhiye debe. MySivi app e jekono time practice korte parben. Dine just 15 minute practice korlei easily English bolte parben",
+        "headline": "₹1 theke English start korun",
+        "cta": "Install now",
+        "target_audience": "Individuals in Bangladesh or West Bengal (India) who speak Bangla, struggle with learning English due to language barriers, and are seeking an affordable, convenient, and effective mobile-based solution to improve their spoken English skills (inference).",
+        "customer_pain_point": "Difficulty learning English due to a lack of explanations in their native language (Bangla), limited opportunities for consistent practice, perceived high costs of traditional English education, and a desire to speak English easily and quickly.",
+        "value_proposition": "MySivi provides an accessible and affordable AI-powered platform that teaches English by explaining concepts in Bangla, allowing users to practice anytime and achieve fluency with just 15 minutes of daily commitment.",
+        "usp": "An AI teacher that explains English concepts in Bangla, offering an extremely low entry cost of ₹1 to start learning, and flexible practice opportunities anytime.",
+        "marketing_angle": "Problem-solution (overcoming language barriers in English learning), affordability/low barrier to entry, convenience/flexibility, and efficiency (quick results with minimal time commitment).",
+        "persuasion_techniques": "Native Language Appeal: Directly addresses the target audience in Bangla, promising explanations in their mother tongue to overcome a common learning hurdle.; Low Barrier to Entry: The '₹1 theke English start korun' headline significantly reduces perceived financial risk and commitment.; Quantifiable Benefit/Ease: 'Dine just 15 minute practice korlei easily English bolte parben' provides a clear, achievable time commitment and a desirable outcome.; Convenience: 'jekono time practice korte parben' highlights flexibility and accessibility.",
+        "strengths": [
+          "Strong localization: Uses Bangla for primary communication, directly addressing the target audience's language needs and building immediate relevance.",
+          "Clear value proposition: Highlights ease of learning, convenience, and affordability as core benefits.",
+          "Extremely low entry barrier: The ₹1 headline is highly compelling and removes financial friction for new users.",
+          "Quantifiable benefit: '15 minute practice korlei easily English bolte parben' sets clear, achievable expectations and motivates action.",
+          "Directly addresses a common pain point: Explaining English in Bangla directly tackles a significant learning barrier for the target demographic."
+        ],
+        "weaknesses": [
+          "Lack of social proof/testimonials: The ad does not include user success stories, ratings, or expert endorsements to build trust and credibility.",
+          "Ambiguity around '₹1' offer: While compelling, the ad doesn't clarify what exactly is included for ₹1 (e.g., a trial period, a specific lesson, or limited features), which could lead to confusion.",
+          "Limited feature elaboration: Beyond 'AI teacher,' there's no specific detail on how the AI teaches or what unique features the app offers to enhance learning.",
+          "Potential landing page disconnect: The ad promotes an 'English App' but links to sivi.ai, which might be a broader platform, potentially causing a slight mismatch in user expectation if not clearly aligned."
+        ],
+        "improvement_suggestions": [
+          "Incorporate social proof: Add testimonials, user ratings, or success metrics (e.g., 'Trusted by 100,000 learners') to enhance credibility and build trust.",
+          "Clarify the '₹1' offer: Explicitly state what the ₹1 includes (e.g., 'First week for ₹1,' 'Introductory lesson for ₹1') to manage expectations and reduce ambiguity.",
+          "Briefly elaborate on AI teacher features: Provide a concise detail about what the AI teacher does (e.g., 'personalized feedback,' 'pronunciation correction,' 'conversational practice') to highlight unique capabilities.",
+          "Optimize landing page experience: Ensure the landing page directly addresses the 'Spoken English App' and the ₹1 offer, providing a seamless user journey from ad to conversion."
+        ],
+        "creative_summary": "This ad effectively targets Bangla speakers struggling with English by offering an AI-powered solution that explains concepts in their native language, emphasizing affordability and convenience. Its core strategy revolves around a low-cost entry point and a promise of easy, time-efficient learning.",
+        "media_analysis_notes": "The ad utilizes a video media type, which is ideal for demonstrating app functionality and user experience. However, without direct access to the video content, the analysis of creative execution is primarily based on the provided text, headline, CTA, and metadata. The image URLs suggest visual elements, but the core analysis remains text-based."
+      },
+      "score": {
+        "hook_effectiveness": 8.5,
+        "message_clarity": 9.0,
+        "value_prop_usp": 8.0,
+        "target_audience_relevance": 8.5,
+        "trust_social_proof": 6.0,
+        "cta_effectiveness": 7.5,
+        "creative_execution": 8.0,
+        "differentiation": 8.5,
+        "total_score": 81.0,
+        "scoring_explanations": {
+          "hook_effectiveness": "The hook 'AI teacher apnake Bangla te English bujhiye debe' is highly effective (8.5) as it immediately addresses a major pain point for Bangla speakers learning English and offers a direct, relevant solution, grabbing attention instantly.",
+          "message_clarity": "The message is exceptionally clear and concise (9.0), using native language to convey the core offer, benefits, and time commitment without ambiguity, making it easily digestible for the target audience.",
+          "value_prop_usp": "The value proposition (easy, convenient, quick English learning) and USP (AI teacher in Bangla, ₹1 start) are strong and distinct (8.0), clearly outlining the benefits and differentiating factors from competitors.",
+          "target_audience_relevance": "The ad demonstrates high relevance (8.5) by directly speaking to Bangla speakers in their native language, addressing their specific learning challenges, and offering an affordable solution that resonates with a broad demographic.",
+          "trust_social_proof": "This score is moderate (6.0) because the ad lacks explicit social proof such as testimonials, user ratings, or quantifiable success metrics. While the 'AI teacher' implies modernity, it doesn't inherently build trust without further evidence.",
+          "cta_effectiveness": "The 'Install now' CTA is clear and direct for an app (7.5), aligning well with the ad's objective. It's low-friction but doesn't create a strong sense of urgency or unique incentive beyond the headline's ₹1 offer.",
+          "creative_execution": "The copy is well-structured, flows logically, and uses persuasive language (8.0). The headline is a strong hook, and the overall positioning of affordability and ease is effectively communicated, despite the lack of visual analysis.",
+          "differentiation": "The core differentiation of an 'AI teacher explaining in Bangla' is a powerful and unique selling point (8.5) that sets MySivi apart from generic English learning apps. The ₹1 entry point further enhances its distinctiveness in the market."
+        }
+      },
+      "rank": 1,
+      "is_best_creative": true
+    },
+    {
+      "ad": {
+        "internal_id": "MYSIVI-AD-002",
+        "ad_id": "1843111363320189",
+        "page_name": "MySivi AI - Practice English",
+        "page_id": "1158358154027391",
+        "ad_library_url": "https://www.facebook.com/ads/library/?id=1843111363320189",
+        "primary_text": "{{product.brand}}",
+        "hook": "{{product.brand}}",
+        "headline": "{{product.name}}",
+        "description": "play.google.com",
+        "cta": "Install now",
+        "landing_page_url": "https://sivi.ai",
+        "image_urls": [
+          "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/763098466_1072282461803357_3560172525683771530_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KfQroBrE2SgQ7kNvwEc9GtA&_nc_oc=AdrAK_WxLDxxC43Ef9yHeKqFYquosjI7PoN4W4Uoi3ME0xiGTo31gmrnl4_fOMppUuc&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQRmiqkdqsB5NASOLTv0nrM57jV3Kb_EVzCXqp-EQw2ZvQ&oe=6AFB6F3A",
+          "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/762829891_1383932303745920_1764448098095700633_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TbuNygZmwNEQ7kNvwEvOugA&_nc_oc=AdoM5-GlDC9j5iNW231bJefcHo63ZDTchRQBiE94rhaGXEr_nPYKbTXgjhMfMKjXIgE&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQRxioN6zBn25E6lPVkol6pZ3u4bwtLxnhuMSpkLEv9c1A&oe=6AFB88B1"
+        ],
+        "video_urls": [
+          "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQO5rCbZH5ARowdODEeWG5InPnXPLeytumwXIXpGULoX5cXHQVRt_BAgwU9irfQEVXI5dfC0CZAWQn_FEKvaClgnZve96wjurRMxhzmkGrAGJg.mp4?_nc_cat=106&_nc_oc=AdoMoC-nQ_k1EDgcZzp0RieB19Zay2JRHvmHbhPmEK_OkqevCTVeSZ2WFPZOlFWXGl8&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=TcSA-OAHouAQ7kNvwGFxDrw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NDQ5ODMzNDMyMDIxNjUsImFzc2V0X2FnZV9kYXlzIjoxMDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c7b064030a55d3ca&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRDQ2M0REMDc2NEUwNzAxODk5QjYxMDNERDlFQjBCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RENEU2NzZBNTU0NjlCMzVGNEUwRTU5NTU4RjBBM0E3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbq_fuEs8OZBhUCKAJDMywXQEN7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQsSnxKJ_aFzhmKGQmWZCQlYW4F6kz_yEyGucjW_0ZmwA&oe=6AFB60BA",
+          "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNhcSaVkQXjOn0iJOue9XS0dN7uXF8qYomcL9y8DzwDS2aH48QJi1w1RmFdiKE7vitcaPWMsFzuLpB-P4NEk2Pj8VkGzjDUWqvnhbhPz7K-cg.mp4?_nc_cat=103&_nc_oc=AdoV417-W933z2SrBRpZbGKA0-VNrkbtLNI53j8maxuJgxIXnED0YUJLzzdf81Of6PM&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=PUk0pMM4zFUQ7kNvwEjKDBd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTc1MTMyMDg1OTE0NTcsImFzc2V0X2FnZV9kYXlzIjoxMDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e99cf4ec3ca95e22&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODQ3N0NBOTZDODc3RUM1QjM4MzU5RjA1REI2QURCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E5NERDOTBCREQ1Q0QxMTYyM0JGQUYxODlGRTdGNkFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbC0ePn3ZyfBhUCKAJDMywXQEN7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTMB4ya6fBEzn6kZ3ygHNTcbBYQm7dRvuAtNSwcMmwtVw&oe=6AFB84B5"
+        ],
+        "start_date": "Unavailable",
+        "end_date": "Active (No end date specified)",
+        "is_active": true,
+        "publisher_platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "impression_info": "Unavailable in standard commercial ad library view",
+        "media_type": "video",
+        "raw_snapshot": {
+          "brandedContent": null,
+          "pageId": "1158358154027391",
+          "pageIsDeleted": false,
+          "pageProfileUri": "https://www.facebook.com/61590439558921/",
+          "rootResharedPost": null,
+          "byline": null,
+          "disclaimerLabel": null,
+          "pageName": "MySivi AI - Practice English",
+          "pageProfilePictureUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/762812907_2070853810488240_446494799861707675_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AAS0ZI7OpDYQ7kNvwGvkoom&_nc_oc=AdpJz7hIy0s0xaz_e1xTUrpqfBbGTmBIjHxvMNFxscLxdboiH4halBhFMAgu3EkTggs&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQTk_BAVPpcAZMA6ejQ0X-zld2nz2RCeRpRczNOvHueX3Q&oe=6AFB7E5A",
+          "event": null,
+          "caption": "play.google.com",
+          "ctaText": "Install now",
+          "cards": [
+            {
+              "body": "AI ಟೀಚರ್ ನಿಮಗೆ ಕನ್ನಡದಲ್ಲಿ English ಕಲಿಸುತ್ತದೆ. MySivi ಆಪ್‌ನಲ್ಲಿ ಯಾವಾಗ ಬೇಕಾದರೂ, ಎಲ್ಲಿಯಾದರೂ practice ಮಾಡಿ. ದಿನಕ್ಕೆ 15 ನಿಮಿಷ practice ಮಾಡಿ, English ಚೆನ್ನಾಗಿ ಕಲಿಯಿರಿ.",
+              "ctaType": "INSTALL_MOBILE_APP",
+              "caption": "",
+              "linkDescription": null,
+              "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+              "title": "English ಕಲಿಯುವುದು ಈಗ ಸುಲಭ",
+              "ctaText": "Install Now",
+              "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQO5rCbZH5ARowdODEeWG5InPnXPLeytumwXIXpGULoX5cXHQVRt_BAgwU9irfQEVXI5dfC0CZAWQn_FEKvaClgnZve96wjurRMxhzmkGrAGJg.mp4?_nc_cat=106&_nc_oc=AdoMoC-nQ_k1EDgcZzp0RieB19Zay2JRHvmHbhPmEK_OkqevCTVeSZ2WFPZOlFWXGl8&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=TcSA-OAHouAQ7kNvwGFxDrw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NDQ5ODMzNDMyMDIxNjUsImFzc2V0X2FnZV9kYXlzIjoxMDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c7b064030a55d3ca&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRDQ2M0REMDc2NEUwNzAxODk5QjYxMDNERDlFQjBCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RENEU2NzZBNTU0NjlCMzVGNEUwRTU5NTU4RjBBM0E3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbq_fuEs8OZBhUCKAJDMywXQEN7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQsSnxKJ_aFzhmKGQmWZCQlYW4F6kz_yEyGucjW_0ZmwA&oe=6AFB60BA",
+              "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/763098466_1072282461803357_3560172525683771530_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KfQroBrE2SgQ7kNvwEc9GtA&_nc_oc=AdrAK_WxLDxxC43Ef9yHeKqFYquosjI7PoN4W4Uoi3ME0xiGTo31gmrnl4_fOMppUuc&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQRmiqkdqsB5NASOLTv0nrM57jV3Kb_EVzCXqp-EQw2ZvQ&oe=6AFB6F3A",
+              "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQOJjITm-RR-AfHOf6F1VRlVbc_zHiVoSLayYH1FwyEFheu07Vk4md5FLEKfqfr2Ux_hXx_AjiUzz6YPDkNehgRwHfL-3VdS37GWJPTSBA.mp4?_nc_cat=108&_nc_oc=AdpFuh-xyx5PsRzIV151zCQ1bpHS0JVj-TFNL-fERvMvYYnszmiwH0d89vFi6rj-4z0&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=jXH_5uv-FXQQ7kNvwFIv2mk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc0NDk4MzM0MzIwMjE2NSwiYXNzZXRfYWdlX2RheXMiOjEwMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRj5-kNQf69cG2DiKlt71f2bCxk2VVTYbUtAU_Iuvr6_A&oe=6AFB68A2",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            },
+            {
+              "body": "AI ಟೀಚರ್ ನಿಮಗೆ ಕನ್ನಡದಲ್ಲಿ English ಕಲಿಸುತ್ತದೆ. MySivi ಆಪ್‌ನಲ್ಲಿ ಯಾವಾಗ ಬೇಕಾದರೂ, ಎಲ್ಲಿಯಾದರೂ practice ಮಾಡಿ. ದಿನಕ್ಕೆ 15 ನಿಮಿಷ practice ಮಾಡಿ, English ಚೆನ್ನಾಗಿ ಕಲಿಯಿರಿ.",
+              "ctaType": "INSTALL_MOBILE_APP",
+              "caption": "",
+              "linkDescription": null,
+              "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+              "title": "English ಕಲಿಯುವುದು ಈಗ ಸುಲಭ",
+              "ctaText": "Install Now",
+              "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNhcSaVkQXjOn0iJOue9XS0dN7uXF8qYomcL9y8DzwDS2aH48QJi1w1RmFdiKE7vitcaPWMsFzuLpB-P4NEk2Pj8VkGzjDUWqvnhbhPz7K-cg.mp4?_nc_cat=103&_nc_oc=AdoV417-W933z2SrBRpZbGKA0-VNrkbtLNI53j8maxuJgxIXnED0YUJLzzdf81Of6PM&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=PUk0pMM4zFUQ7kNvwEjKDBd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTc1MTMyMDg1OTE0NTcsImFzc2V0X2FnZV9kYXlzIjoxMDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e99cf4ec3ca95e22&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODQ3N0NBOTZDODc3RUM1QjM4MzU5RjA1REI2QURCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E5NERDOTBCREQ1Q0QxMTYyM0JGQUYxODlGRTdGNkFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbC0ePn3ZyfBhUCKAJDMywXQEN7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTMB4ya6fBEzn6kZ3ygHNTcbBYQm7dRvuAtNSwcMmwtVw&oe=6AFB84B5",
+              "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/762829891_1383932303745920_1764448098095700633_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TbuNygZmwNEQ7kNvwEvOugA&_nc_oc=AdoM5-GlDC9j5iNW231bJefcHo63ZDTchRQBiE94rhaGXEr_nPYKbTXgjhMfMKjXIgE&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQRxioN6zBn25E6lPVkol6pZ3u4bwtLxnhuMSpkLEv9c1A&oe=6AFB88B1",
+              "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQN4DR20XTGSmMNTksM2XsEBbzYj5mIbvc7oEeTRTwiIVDizSBWwCuEOmox1PNyxQDYTTewfnuCPovkRUWmiifKl_97FlKhlozfcpDRadw.mp4?_nc_cat=105&_nc_oc=Adp1BPNop-xltz4CKpJEKZzx_OTBBGFOG0GoQ8oHxj9v-UwESaShAJXt8LyI3kYpMDY&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=m-x7-8kalrEQ7kNvwGLUwlX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc1NzUxMzIwODU5MTQ1NywiYXNzZXRfYWdlX2RheXMiOjEwMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTLDH1UMNrilNcHS5YSuCSl0TcMY6HyMRhMDF5VCBs3Lw&oe=6AFB5AC9",
+              "watermarkedVideoHdUrl": null,
+              "watermarkedVideoSdUrl": null,
+              "imageCrops": [],
+              "originalImageUrl": null,
+              "resizedImageUrl": null,
+              "watermarkedResizedImageUrl": null
+            }
+          ],
+          "body": {
+            "text": "{{product.brand}}"
+          },
+          "ctaType": "INSTALL_MOBILE_APP",
+          "displayFormat": "DCO",
+          "linkDescription": "{{product.description}}",
+          "linkUrl": "http://play.google.com/store/apps/details?id=com.practice.ninja_study",
+          "images": [],
+          "pageCategories": [
+            "Education website"
+          ],
+          "pageLikeCount": 51,
+          "title": "{{product.name}}",
+          "videos": [],
+          "isReshared": false,
+          "extraLinks": [],
+          "extraTexts": [],
+          "extraImages": [],
+          "extraVideos": [],
+          "countryIsoCode": null,
+          "brazilTaxId": null,
+          "additionalInfo": null,
+          "ecCertificates": []
+        }
+      },
+      "analysis": {
+        "hook": "{{product.brand}}",
+        "body": "{{product.brand}}",
+        "headline": "{{product.name}}",
+        "cta": "Install now",
+        "target_audience": "Individuals seeking to improve their English language skills, likely non-native speakers, who are comfortable using mobile applications for learning (Inference based on 'MySivi AI - Practice English' page name and 'Install now' CTA for Google Play).",
+        "customer_pain_point": "Difficulty or lack of convenient opportunities to practice English, especially speaking and conversational skills (Inferred from page name).",
+        "value_proposition": "Convenient and accessible AI-powered platform for practicing English language skills (Inferred from page name).",
+        "usp": "AI-powered English practice, suggesting personalized and interactive learning experiences (Inferred from page name).",
+        "marketing_angle": "Problem-solution (solving the difficulty of English practice), convenience, and technology-driven learning (Inferred from page name).",
+        "persuasion_techniques": "Direct call to action ('Install now') and implied ease of access via mobile app (Google Play).",
+        "strengths": [
+          "The Call-to-Action ('Install now') is clear and direct, prompting immediate action.",
+          "The 'description' pointing to 'play.google.com' clearly indicates the app's availability on Android."
+        ],
+        "weaknesses": [
+          "The primary text and headline use unreplaced placeholders ('{{product.brand}}', '{{product.name}}'), rendering the ad copy completely uninformative and unprofessional.",
+          "There is a critical inconsistency between the ad's implied purpose ('MySivi AI - Practice English' from page name) and the 'landing_page_url' (sivi.ai, which is an AI generative design platform), leading to severe user confusion and a broken user journey.",
+          "Lack of any specific benefits, features, or emotional appeal in the provided text due to placeholder usage.",
+          "Absence of social proof, testimonials, or quantifiable results to build trust or demonstrate effectiveness."
+        ],
+        "improvement_suggestions": [
+          "Immediately replace all placeholder text (e.g., '{{product.brand}}', '{{product.name}}') with actual, compelling ad copy that clearly communicates the benefits of MySivi AI for English practice.",
+          "Rectify the critical mismatch between the ad's implied product ('Practice English') and the 'landing_page_url' (sivi.ai). The URL must direct to the correct product page on Google Play for the English practice app, or the ad copy must be updated to reflect the actual product at sivi.ai if the ad's intent was misaligned.",
+          "Add specific, benefit-driven copy that highlights what users gain from MySivi AI (e.g., 'Improve fluency with AI conversations', 'Boost confidence in speaking', 'Personalized feedback').",
+          "Incorporate elements of social proof, such as user ratings, testimonials, or key statistics (e.g., 'Trusted by 100k learners') to build credibility."
+        ],
+        "creative_summary": "This advertisement is fundamentally broken due to unreplaced placeholder text in its primary copy and headline, making it entirely ineffective. A severe mismatch between the ad's implied product (English practice) and its landing page URL (AI design platform) creates critical user confusion and will prevent conversions.",
+        "media_analysis_notes": "The ad utilizes a video format, but without access to the video content, the analysis is strictly based on the provided text, headline, and CTA. The visual composition, specific video messaging, and overall creative impact of the video cannot be assessed, which is a significant limitation for a video ad."
+      },
+      "score": {
+        "hook_effectiveness": 0.0,
+        "message_clarity": 0.0,
+        "value_prop_usp": 0.0,
+        "target_audience_relevance": 1.0,
+        "trust_social_proof": 0.0,
+        "cta_effectiveness": 5.0,
+        "creative_execution": 0.0,
+        "differentiation": 0.0,
+        "total_score": 6.0,
+        "scoring_explanations": {
+          "hook_effectiveness": "The hook is a placeholder ('{{product.brand}}'), conveying no message or stopping power, rendering it completely ineffective.",
+          "message_clarity": "The primary text and headline are placeholders, making the core offer completely unclear. The page name suggests one product, while the landing page URL suggests another, creating extreme confusion.",
+          "value_prop_usp": "No value proposition or unique selling point is communicated through the placeholder text, making it impossible for the audience to understand the benefit.",
+          "target_audience_relevance": "While the 'page_name' 'MySivi AI - Practice English' infers a target audience, the ad copy itself does not address them, making relevance extremely low. The ad fails to speak to any specific pain points or desires.",
+          "trust_social_proof": "Absolutely no elements of trust, social proof, testimonials, or verifiable claims are present in the ad copy.",
+          "cta_effectiveness": "The CTA 'Install now' is clear and action-oriented, but its effectiveness is severely hampered by the complete lack of product context and information. A good CTA in a vacuum, but useless here.",
+          "creative_execution": "The use of unreplaced placeholders in critical ad copy fields represents a complete and fundamental failure in creative execution, making the ad unpublishable in its current state.",
+          "differentiation": "No differentiation can be communicated when the product itself isn't described or its benefits articulated. The ad provides no reason to choose MySivi over any other solution."
+        }
+      },
+      "rank": 4,
+      "is_best_creative": false
+    }
+  ],
+  "rankings": [
+    {
+      "rank": 1,
+      "internal_id": "MYSIVI-AD-001",
+      "ad_id": "946551737840774",
+      "headline": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+      "score": 81.0,
+      "hook": "🌍 Speak English fluently with the power of AI!",
+      "cta": "Install now",
+      "is_best_creative": true
+    },
+    {
+      "rank": 1,
+      "internal_id": "MYSIVI-AD-003",
+      "ad_id": "2966208700429750",
+      "headline": "MySivi सोबत सुरुवात करा – केवळ ₹1 मध्ये",
+      "score": 81.0,
+      "hook": "हुशारीनं शिका, कष्ट न करता!",
+      "cta": "Install now",
+      "is_best_creative": true
+    },
+    {
+      "rank": 1,
+      "internal_id": "MYSIVI-AD-004",
+      "ad_id": "2823814924671305",
+      "headline": "₹1 theke English start korun",
+      "score": 81.0,
+      "hook": "AI teacher apnake Bangla te English bujhiye debe.",
+      "cta": "Install now",
+      "is_best_creative": true
+    },
+    {
+      "rank": 4,
+      "internal_id": "MYSIVI-AD-002",
+      "ad_id": "1843111363320189",
+      "headline": "{{product.name}}",
+      "score": 6.0,
+      "hook": "{{product.brand}}",
+      "cta": "Install now",
+      "is_best_creative": false
+    }
+  ],
+  "top_ad": {
+    "ad": {
+      "internal_id": "MYSIVI-AD-001",
+      "ad_id": "946551737840774",
+      "page_name": "MySivi Spoken English App",
+      "page_id": "974103675777955",
+      "ad_library_url": "https://www.facebook.com/ads/library/?id=946551737840774",
+      "primary_text": "🌍 Speak English fluently with the power of AI! 🧠 Try MySivi for real progress. Start your trial now at just ₹1/-! 🔓💬 \n\n#LearnEnglish #AIpowered #MySivi #FluencyJourney 🚀",
+      "hook": "🌍 Speak English fluently with the power of AI!",
+      "headline": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+      "description": "itunes.apple.com",
+      "cta": "Install now",
+      "landing_page_url": "https://sivi.ai",
+      "image_urls": [
+        "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/801786036_904478145791011_651198784096930409_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GoPhnDsNYNwQ7kNvwFQ6qQx&_nc_oc=AdpiyYuiyezUZh4pYyr6o_YdvgchgpYwiVqd3LaqfgUZHqLBPPTWJB-X_QSM7qfBYWk&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQQ3RFHYoHt73P00oF_jI8RkS90qX_uA7By0bHMIiSKXzQ&oe=6AFB6E6B",
+        "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/801326785_2166283630984205_5928882845031013483_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rtWSAEpNWqgQ7kNvwExjTY5&_nc_oc=AdqgpQzW-zC6vdfBwIJAxX22YErHq64nZyrZVSD8V_Yo3eATrm-urlWZ89L-vWJqRpk&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQT0Epz-beVnoXl5QTTO21UtoqRcSa2bqVYpuP5cs8kQxQ&oe=6AFB848F"
+      ],
+      "video_urls": [
+        "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPAqcDuBn1qiqkShbQ6p3eL3RVXnFfJjPxFh1udimORGmQ2laAnpLFbKiNvDIokcyb22ixNV9hxSbR1_cigqFjbKQW3EDbuZ3x9kK1APqk_Mg.mp4?_nc_cat=100&_nc_oc=AdqQRfH60vGC1aqoLzEOWK0Y99baV_0IgbL3Keoo5TIhgyHt4WEBHlHXMQR5WAuE3qo&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=J8fJ8TGKoVsQ7kNvwHrPh9j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDIxMzE1OTgwNDgwOTQsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=22994630c9b52902&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QzQwQkVBQUNBMzZGMzVCRTIxMzdERDA5RDVCNkVCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRCNDY1MjIxODRBNEMxMkIwRDNENUU4Q0YzRUYxRDg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa87cfMqsjYBRUCKAJDMywXQD5ybpeNT98YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTp47ZmPUz-e13jV4WMmRORFzJbDdL66uiXwYSRx_KHqQ&oe=6AFB5750",
+        "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMPFSeN-ont9O-1m3v834oDl8pa70dqbkW7XAXkasYp-sLmXhRPG7jrdTPKROTpy3W615_cC7zSatg-4Ov1a6KyKrVX7tyM8Fb-x118LF97zQ.mp4?_nc_cat=111&_nc_oc=AdpyNDxLdb9dyB3cKtEvh5PAYLSyDYgUN7skMXGNYZmkDj7Yat0RB9qJiWa4WV72ezM&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=_xBO9yH1AGUQ7kNvwGc29YH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTk4NTA1MzUxMjQ5MDIsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7eef3f29e5527bf5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DODQ2Mjc0QzZEQkIyQzM4QTA0RTM0QTlBNzg2RUU5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlFNDhFM0RERDM4NTNBNjUwRUY1QTQzNkZENjZDRkJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbM_oeg5KSgBhUCKAJDMywXQD5ybpeNT98YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTPsd3Tvnhqs7dFRMoUEuUJoI5nz0QStsnw0CS7AUZ2CQ&oe=6AFB5E7D"
+      ],
+      "start_date": "Unavailable",
+      "end_date": "Active (No end date specified)",
+      "is_active": true,
+      "publisher_platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "impression_info": "Unavailable in standard commercial ad library view",
+      "media_type": "video",
+      "raw_snapshot": {
+        "brandedContent": null,
+        "pageId": "974103675777955",
+        "pageIsDeleted": false,
+        "pageProfileUri": "https://www.facebook.com/61584601834661/",
+        "rootResharedPost": null,
+        "byline": null,
+        "disclaimerLabel": null,
+        "pageName": "MySivi Spoken English App",
+        "pageProfilePictureUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/801396624_1146853334669150_4771199544281445577_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=365pFvw2OwAQ7kNvwFV5zJC&_nc_oc=AdpRkuZIYXCK0t8JrjwCMCR2PYM0gtb6fQfF3XiG647P0MgoDc2lDlXToy0dJJdXNzM&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQTHvINNyvdNa4o-wJZsfepaQ5PHJaYZIBbwT6R_sNxL-A&oe=6AFB7A72",
+        "event": null,
+        "caption": "itunes.apple.com",
+        "ctaText": "Install now",
+        "cards": [
+          {
+            "body": "🌍 Speak English fluently with the power of AI! 🧠 Try MySivi for real progress. Start your trial now at just ₹1/-! 🔓💬 \n\n#LearnEnglish #AIpowered #MySivi #FluencyJourney 🚀",
+            "ctaType": "INSTALL_MOBILE_APP",
+            "caption": "",
+            "linkDescription": null,
+            "linkUrl": "http://itunes.apple.com/app/id1644736135",
+            "title": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+            "ctaText": "Install Now",
+            "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPAqcDuBn1qiqkShbQ6p3eL3RVXnFfJjPxFh1udimORGmQ2laAnpLFbKiNvDIokcyb22ixNV9hxSbR1_cigqFjbKQW3EDbuZ3x9kK1APqk_Mg.mp4?_nc_cat=100&_nc_oc=AdqQRfH60vGC1aqoLzEOWK0Y99baV_0IgbL3Keoo5TIhgyHt4WEBHlHXMQR5WAuE3qo&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=J8fJ8TGKoVsQ7kNvwHrPh9j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDIxMzE1OTgwNDgwOTQsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=22994630c9b52902&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QzQwQkVBQUNBMzZGMzVCRTIxMzdERDA5RDVCNkVCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRCNDY1MjIxODRBNEMxMkIwRDNENUU4Q0YzRUYxRDg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa87cfMqsjYBRUCKAJDMywXQD5ybpeNT98YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTp47ZmPUz-e13jV4WMmRORFzJbDdL66uiXwYSRx_KHqQ&oe=6AFB5750",
+            "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/801786036_904478145791011_651198784096930409_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GoPhnDsNYNwQ7kNvwFQ6qQx&_nc_oc=AdpiyYuiyezUZh4pYyr6o_YdvgchgpYwiVqd3LaqfgUZHqLBPPTWJB-X_QSM7qfBYWk&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQQ3RFHYoHt73P00oF_jI8RkS90qX_uA7By0bHMIiSKXzQ&oe=6AFB6E6B",
+            "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQM3wnBScmVyB3P2iPT2uCVBcWju-fFSDo6p7efkXNwVt2BnZFdSxZWQJLAKDHH5wWs4f0txP12OeluHxCTRL8NVnUuSq3AL2VxlASulLw.mp4?_nc_cat=100&_nc_oc=AdqEdJaEsV7lk3Vys-T1Lc0sUqtaQ--jd0wBKzBeAfPE_tFbQCjvpxqn_lQEg3VZuVc&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=hQXUfDkXOc0Q7kNvwFIsz42&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTYwMjEzMTU5ODA0ODA5NCwiYXNzZXRfYWdlX2RheXMiOjY0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQwznJF_Ky9mzwrXjfzV-2n8_O2qITENae_3H6HRgsz9g&oe=6AFB756E",
+            "watermarkedVideoHdUrl": null,
+            "watermarkedVideoSdUrl": null,
+            "imageCrops": [],
+            "originalImageUrl": null,
+            "resizedImageUrl": null,
+            "watermarkedResizedImageUrl": null
+          },
+          {
+            "body": "🌍 Speak English fluently with the power of AI! 🧠 Try MySivi for real progress. Start your trial now at just ₹1/-! 🔓💬 \n\n#LearnEnglish #AIpowered #MySivi #FluencyJourney 🚀",
+            "ctaType": "INSTALL_MOBILE_APP",
+            "caption": "",
+            "linkDescription": null,
+            "linkUrl": "http://itunes.apple.com/app/id1644736135",
+            "title": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+            "ctaText": "Install Now",
+            "videoHdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMPFSeN-ont9O-1m3v834oDl8pa70dqbkW7XAXkasYp-sLmXhRPG7jrdTPKROTpy3W615_cC7zSatg-4Ov1a6KyKrVX7tyM8Fb-x118LF97zQ.mp4?_nc_cat=111&_nc_oc=AdpyNDxLdb9dyB3cKtEvh5PAYLSyDYgUN7skMXGNYZmkDj7Yat0RB9qJiWa4WV72ezM&_nc_sid=b66105&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=_xBO9yH1AGUQ7kNvwGc29YH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTk4NTA1MzUxMjQ5MDIsImFzc2V0X2FnZV9kYXlzIjo2NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7eef3f29e5527bf5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DODQ2Mjc0QzZEQkIyQzM4QTA0RTM0QTlBNzg2RUU5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlFNDhFM0RERDM4NTNBNjUwRUY1QTQzNkZENjZDRkJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbM_oeg5KSgBhUCKAJDMywXQD5ybpeNT98YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTPsd3Tvnhqs7dFRMoUEuUJoI5nz0QStsnw0CS7AUZ2CQ&oe=6AFB5E7D",
+            "videoPreviewImageUrl": "https://scontent.fdet3-1.fna.fbcdn.net/v/t39.35426-6/801326785_2166283630984205_5928882845031013483_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rtWSAEpNWqgQ7kNvwExjTY5&_nc_oc=AdqgpQzW-zC6vdfBwIJAxX22YErHq64nZyrZVSD8V_Yo3eATrm-urlWZ89L-vWJqRpk&_nc_zt=14&_nc_ht=scontent.fdet3-1.fna&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&oh=00_AQT0Epz-beVnoXl5QTTO21UtoqRcSa2bqVYpuP5cs8kQxQ&oe=6AFB848F",
+            "videoSdUrl": "https://video.fdet3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQNhShp-JpUMJilVc6mD2FZ26QrB-zyzd-InnB2YyHN6XU0ZzDHIqcdM0CE0LXshoBS_P6XlWGZ3RMH-fIrcKhsfm2p6QZz1XWPbRHoiHQ.mp4?_nc_cat=100&_nc_oc=AdqR2misFlcEuBtPNu5HF5JK0qe2DdHMdIkESBnROFb0Glt6OwYZ-ZzlO--9OLE7Dtg&_nc_sid=ef5aa3&_nc_ht=video.fdet3-1.fna.fbcdn.net&_nc_ohc=-SD3gsrGssEQ7kNvwGcE0v5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc1OTg1MDUzNTEyNDkwMiwiYXNzZXRfYWdlX2RheXMiOjY0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=1NRwpp16t42E3tsDpW6RJw&_nc_ss=70289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRmJ7Yr7v2af1nVwjN3zfAjqzUOu4XVBIKsz_GDnnQ2qA&oe=6AFB6DB6",
+            "watermarkedVideoHdUrl": null,
+            "watermarkedVideoSdUrl": null,
+            "imageCrops": [],
+            "originalImageUrl": null,
+            "resizedImageUrl": null,
+            "watermarkedResizedImageUrl": null
+          }
+        ],
+        "body": {
+          "text": "🌍 Speak English fluently with the power of AI! 🧠 Try MySivi for real progress. Start your trial now at just ₹1/-! 🔓💬 \n\n#LearnEnglish #AIpowered #MySivi #FluencyJourney 🚀"
+        },
+        "ctaType": "INSTALL_MOBILE_APP",
+        "displayFormat": "DCO",
+        "linkDescription": null,
+        "linkUrl": "http://itunes.apple.com/app/id1644736135",
+        "images": [],
+        "pageCategories": [
+          "School"
+        ],
+        "pageLikeCount": 1582,
+        "title": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+        "videos": [],
+        "isReshared": false,
+        "extraLinks": [],
+        "extraTexts": [],
+        "extraImages": [],
+        "extraVideos": [],
+        "countryIsoCode": null,
+        "brazilTaxId": null,
+        "additionalInfo": null,
+        "ecCertificates": []
+      }
+    },
+    "analysis": {
+      "hook": "Speak English fluently with the power of AI!",
+      "body": "Speak English fluently with the power of AI! Try MySivi for real progress. Start your trial now at just ₹1/-! #LearnEnglish #AIpowered #MySivi #FluencyJourney",
+      "headline": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+      "cta": "Install now",
+      "target_audience": "Individuals in India (inference based on ₹1 and Hindi headline) who aspire to improve their spoken English fluency, including students, professionals, or anyone seeking enhanced communication skills, and are open to technology-driven learning solutions.",
+      "customer_pain_point": "Difficulty achieving fluency in spoken English, lack of confidence in English communication, and potentially the high cost or ineffectiveness of traditional language learning methods.",
+      "value_proposition": "Achieve genuine progress and fluency in spoken English through an innovative, AI-powered learning platform.",
+      "usp": "An AI-powered platform specifically designed for spoken English fluency, offering an exceptionally low-cost trial (₹1) to encourage immediate engagement.",
+      "marketing_angle": "Problem-solution (lack of fluency addressed by AI), low barrier to entry/risk reversal (₹1 trial), and technology-driven efficiency.",
+      "persuasion_techniques": "Low-cost trial/Risk Reversal: The ₹1 trial significantly reduces the perceived financial risk for potential users.; Benefit-driven language: Focuses on the desired outcome ('Speak English fluently', 'real progress').; Authority/Innovation: Highlights the 'power of AI' to suggest advanced and effective methodology.; Localization: The Hindi headline 'MySivi Se Shuru Karo – Sirf ₹1 Mein' directly addresses the target Indian audience in their local language, enhancing relevance and connection.",
+      "strengths": [
+        "Clear and compelling hook that immediately addresses a key user desire with a modern solution.",
+        "Highly attractive and low-friction trial offer (₹1) significantly lowers the barrier to entry.",
+        "Explicitly highlights 'AI' as a core technology, appealing to users seeking innovative learning methods.",
+        "Localized headline in Hindi demonstrates strong audience understanding and cultural relevance.",
+        "Direct and clear Call-to-Action ('Install now') guides users effectively."
+      ],
+      "weaknesses": [
+        "Critical Landing Page Mismatch: The ad promotes an 'English Spoken App' (per page name and copy), but the provided landing page URL (sivi.ai) is for an 'AI generative design platform,' creating a severe disconnect and potential user confusion.",
+        "Lack of specific AI feature explanation: While 'power of AI' is mentioned, the ad doesn't elaborate on *how* AI facilitates fluency (e.g., personalized feedback, interactive practice scenarios).",
+        "Generic description: The 'itunes.apple.com' description is uninformative and adds no value to the ad.",
+        "Absence of explicit social proof: The ad copy lacks testimonials, user numbers, or success metrics to build further credibility."
+      ],
+      "improvement_suggestions": [
+        "Rectify Landing Page URL: Immediately correct the landing page URL to direct users to the actual MySivi Spoken English App download page or a relevant product page. This is the most critical fix for campaign effectiveness.",
+        "Elaborate on AI Benefits: Briefly explain the unique AI features that facilitate fluency, such as 'AI-powered pronunciation analysis,' 'real-time conversational practice,' or 'personalized learning paths,' to demonstrate tangible value.",
+        "Enhance Description Field: Utilize the description field to highlight a key benefit, a unique feature, or a strong call to value, rather than a generic URL.",
+        "Integrate Social Proof: Add a concise testimonial, a statistic (e.g., 'Trusted by 100,000+ learners'), or a success story to build credibility and trust."
+      ],
+      "creative_summary": "The ad effectively uses a low-cost trial and AI-powered promise to attract users for English fluency, leveraging strong localization. However, a critical mismatch between the ad's content (English app) and the provided landing page URL (AI design platform) severely undermines its effectiveness and credibility.",
+      "media_analysis_notes": "The ad is identified as a 'video' media type, which is ideal for demonstrating app functionality and user experience. However, without direct access to the video content, the analysis is limited to the textual elements, and visual composition implications cannot be fully assessed. The provided image/video URLs are not directly viewable in this context."
+    },
+    "score": {
+      "hook_effectiveness": 8.5,
+      "message_clarity": 9.0,
+      "value_prop_usp": 8.0,
+      "target_audience_relevance": 8.5,
+      "trust_social_proof": 6.0,
+      "cta_effectiveness": 7.5,
+      "creative_execution": 8.0,
+      "differentiation": 8.5,
+      "total_score": 81.0,
+      "scoring_explanations": {
+        "hook_effectiveness": "The hook 'Speak English fluently with the power of AI!' is highly effective, immediately addressing a core desire with a modern solution and an engaging emoji, capturing attention quickly.",
+        "message_clarity": "The message is exceptionally clear, stating the problem it solves (fluency), the solution (MySivi AI), and the low-cost trial offer (₹1), making it easy for the audience to understand the core proposition without ambiguity.",
+        "value_prop_usp": "The value proposition of achieving 'real progress' and 'fluency' is clear and desirable. The USP lies in the 'power of AI' and the highly attractive '₹1 trial,' which effectively differentiates it from traditional or higher-priced competitors.",
+        "target_audience_relevance": "The ad is highly relevant to an Indian audience (indicated by ₹1 and Hindi headline) seeking English fluency, directly addressing a common aspiration for personal and professional growth in that demographic.",
+        "trust_social_proof": "The ad lacks explicit social proof like testimonials or user numbers in its text. While the ₹1 trial builds some initial trust by reducing financial risk, the absence of verifiable claims limits a higher score. Crucially, the discrepancy between the ad's content (English app) and the provided landing page URL (AI design platform) would severely erode trust if this were a live campaign setup.",
+        "cta_effectiveness": "'Install now' is a direct and clear call to action, guiding users to the next step for an app. It is functional, though it could be slightly more aligned with the 'start your trial' message for maximum impact.",
+        "creative_execution": "The ad uses emojis effectively to break up text and add visual appeal. The primary text flows well, and the localized Hindi headline is a strong strategic choice for connecting with the target Indian market, demonstrating good overall execution.",
+        "differentiation": "The 'power of AI' combined with the '₹1 trial' offers a strong differentiation point in a competitive language learning market, appealing to users looking for modern, affordable, and effective solutions that stand out."
+      }
+    },
+    "rank": 1,
+    "is_best_creative": true
+  },
+  "comparison": {
+    "top_3_summary": [
+      {
+        "rank": 1,
+        "internal_id": "MYSIVI-AD-001",
+        "ad_id": "946551737840774",
+        "headline": "MySivi Se Shuru Karo – Sirf ₹1 Mein",
+        "hook": "🌍 Speak English fluently with the power of AI!",
+        "cta": "Install now",
+        "score": 81.0,
+        "marketing_angle": "Problem-solution (lack of fluency addressed by AI), low barrier to entry/risk reversal (₹1 trial), and technology-driven efficiency.",
+        "usp": "An AI-powered platform specifically designed for spoken English fluency, offering an exceptionally low-cost trial (₹1) to encourage immediate engagement.",
+        "key_strength": "Clear and compelling hook that immediately addresses a key user desire with a modern solution."
+      },
+      {
+        "rank": 1,
+        "internal_id": "MYSIVI-AD-003",
+        "ad_id": "2966208700429750",
+        "headline": "MySivi सोबत सुरुवात करा – केवळ ₹1 मध्ये",
+        "hook": "हुशारीनं शिका, कष्ट न करता!",
+        "cta": "Install now",
+        "score": 81.0,
+        "marketing_angle": "Problem-solution (addressing English speaking challenges), cost-saving (₹1 trial), and ease/efficiency (learning 'smartly, without effort').",
+        "usp": "AI-powered English speaking practice combined with an extremely low-cost trial entry point (₹1).",
+        "key_strength": "The hook is highly effective, immediately addressing a common desire (learning without effort) and a key benefit."
+      },
+      {
+        "rank": 1,
+        "internal_id": "MYSIVI-AD-004",
+        "ad_id": "2823814924671305",
+        "headline": "₹1 theke English start korun",
+        "hook": "AI teacher apnake Bangla te English bujhiye debe.",
+        "cta": "Install now",
+        "score": 81.0,
+        "marketing_angle": "Problem-solution (overcoming language barriers in English learning), affordability/low barrier to entry, convenience/flexibility, and efficiency (quick results with minimal time commitment).",
+        "usp": "An AI teacher that explains English concepts in Bangla, offering an extremely low entry cost of ₹1 to start learning, and flexible practice opportunities anytime.",
+        "key_strength": "Strong localization: Uses Bangla for primary communication, directly addressing the target audience's language needs and building immediate relevance."
+      }
+    ],
+    "winner_justification": [
+      "Joint Rank 1 Co-Winners (Vernacular Creative Parity): 3 advertisements (MYSIVI-AD-001 ('MySivi Se Shuru Karo – Sirf ₹1 Mein'), MYSIVI-AD-003 ('MySivi सोबत सुरुवात करा – केवळ ₹1 मध्ये'), MYSIVI-AD-004 ('₹1 theke English start korun')) achieved identical composite scores of 81.0/100 with matching primary rubric metrics (Hook: 8.5/10, Value Prop: 8.0/10). They demonstrate equal strategic potency across India's localized linguistic cohorts (Hindi, Marathi, and Bengali) utilizing the ₹1 trial price anchor.",
+      "Localized Regional Messaging: Each localized variant adapts the conversational AI value proposition to its target language audience while maintaining consistent core messaging: accessible, judgment-free English practice with an AI tutor.",
+      "Shared Low-Friction Onboarding: All top-performing creatives deploy direct-response 'Install now' CTAs directly routing users to app store trial onboarding at ₹1."
+    ],
+    "winner_internal_id": "MYSIVI-AD-001",
+    "winner_score": 81.0,
+    "is_joint_winner": true
+  },
+  "marketing_insights": [
+    "₹1 Low-Barrier Entry Anchor: Universal deployment of ₹1 trial pricing to minimize user adoption friction and drive instant mobile app trial.",
+    "Observed Regional Language Localization: Creative copy explicitly tested across Hindi, Marathi, and Bengali variants to address non-metro learners across Tier 2 and Tier 3 India.",
+    "Judgment-Free AI Conversational Partner: Framing the AI tutor as a patient, private speaking companion without fear of social judgment or classroom intimidation.",
+    "Mobile App Direct Response: High-friction web registration funnels are bypassed in favor of direct mobile application installation ('Install now') on iOS App Store and Google Play."
+  ],
+  "recommendations": [
+    {
+      "concept_name": "Concept 1: The 'Job Interview Anxiety' Mock Session",
+      "format": "30-Second UGC Video Ad (9:16)",
+      "hook": "Freeze during your English interviews? Practice private mock interviews with Sivi AI for just ₹1.",
+      "visual_storyboard": "Student practicing interview responses privately with the AI tutor, gaining real-time confidence and clearing a corporate interview.",
+      "strategic_rationale": "Directly targets high-intent career aspirational learners in Tier 2/3 cities seeking career advancement."
+    },
+    {
+      "concept_name": "Concept 2: The 'Regional Language to English Transition' Carousel",
+      "format": "Multi-Language Social Carousel (1:1)",
+      "hook": "Can't find an English tutor who speaks your language? Sivi AI teaches English in your mother tongue.",
+      "visual_storyboard": "Interactive cards transitioning between vernacular explanations and conversational English phrases. Proposes Kannada and Tamil as potential future localization opportunities beyond the observed active creatives.",
+      "strategic_rationale": "Overcomes vernacular hesitation; explores future regional expansion beyond the observed Hindi, Marathi, and Bengali sample."
+    },
+    {
+      "concept_name": "Concept 3: The '₹1 Daily Speaking Habit' Challenge",
+      "format": "Interactive 15s Story Ad (9:16)",
+      "hook": "Spend ₹1. Speak for 5 minutes today. Build daily conversational fluency with zero embarrassment.",
+      "visual_storyboard": "Gamified daily streak counter showing consistent micro-speaking sessions with AI, driving routine practice.",
+      "strategic_rationale": "Creates low-friction daily micro-commitments and drives sustainable app engagement."
+    }
+  ],
+  "sample_disclosure": {
+    "raw_sample_size": 10,
+    "unique_creatives_analyzed": 4,
+    "deduplication_ratio": "6 duplicates filtered out of 10 raw items",
+    "scope_boundary": "Findings represent empirical creative patterns observed within this 4-ad sample from India active campaigns and should not be generalized to global, non-India, or uncollected ad sets without broader sampling."
+  },
+  "limitations": [
+    "Data Collection Provenance: Data was ingested from public Meta Ad Library via the Apify Actor (apify/facebook-ads-scraper), not through direct private Meta Marketing API access.",
+    "Sample Size Boundary: Analysis reflects 4 unique advertisements (deduplicated from a 10-ad live sample). Strategic findings describe this active campaign cohort, not broader macroeconomic or global brand strategy.",
+    "Commercial Metric Blindness: Commercial conversion rates, in-app purchases, and ROAS are not exposed by the Meta Ad Library. Rankings represent Creative Quality and Strategic Rubric scores rather than financial returns.",
+    "Impression Tiers: Impression metrics are marked unavailable by Meta for non-political commercial ads in the public ad library view.",
+    "Qualitative Inference: Target audience profiles and pain points represent qualitative inferences drawn from creative copy analysis."
+  ]
+}

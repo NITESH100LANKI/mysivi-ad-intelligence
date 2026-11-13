@@ -1,0 +1,195 @@
+[
+  {
+    "ad_archive_id": "782910482019284",
+    "page_id": "109283749201921",
+    "page_name": "MySivi / Sivi.ai",
+    "is_active": true,
+    "start_date": "2024-03-10",
+    "publisher_platforms": ["facebook", "instagram"],
+    "snapshot": {
+      "title": "Instant AI Graphic Designer - 2 Minute Creatives",
+      "body": "Turn any text into stunning banners in 2 minutes flat! 🚀 No design skills needed. Just type your message, choose your brand colors, and let Sivi AI compose multi-format ad graphics ready to publish on Facebook, Instagram, and Google.",
+      "caption": "sivi.ai/instant-banner",
+      "cta_text": "Try For Free",
+      "link_url": "https://sivi.ai/?ref=fb_ads",
+      "images": [
+        {
+          "original_image_url": "https://sivi.ai/assets/ads/ai-banner-generator-preview-1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "ad_archive_id": "782910482019285",
+    "page_id": "109283749201921",
+    "page_name": "MySivi / Sivi.ai",
+    "is_active": true,
+    "start_date": "2024-03-15",
+    "publisher_platforms": ["facebook", "instagram"],
+    "snapshot": {
+      "title": "Stop Paying $500 For Freelance Ad Designs",
+      "body": "Stop spending $500+ every month on freelance banner designers. Sivi generates production-ready banners, display ads, and promotional social graphics in seconds. Editable layers, vector exports, and instant variations for your entire catalog.",
+      "caption": "sivi.ai/cost-effective-creatives",
+      "cta_text": "Get Started Free",
+      "link_url": "https://sivi.ai/pricing",
+      "images": [
+        {
+          "original_image_url": "https://sivi.ai/assets/ads/cost-comparison-freelance-vs-ai.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "ad_archive_id": "782910482019286",
+    "page_id": "109283749201921",
+    "page_name": "MySivi / Sivi.ai",
+    "is_active": true,
+    "start_date": "2024-03-20",
+    "publisher_platforms": ["facebook", "instagram", "audience_network"],
+    "snapshot": {
+      "title": "10x Your E-commerce Creative Output",
+      "body": "Attention E-commerce Founders and Performance Marketers: Running out of creative angles for your Facebook ad campaigns? Sivi AI turns your product details into 20+ responsive ad formats in under 5 minutes. Scale your ROAS without burning out your design team.",
+      "caption": "sivi.ai/ecommerce-growth",
+      "cta_text": "Learn More",
+      "link_url": "https://sivi.ai/ecommerce",
+      "images": [
+        {
+          "original_image_url": "https://sivi.ai/assets/ads/ecommerce-banner-automation.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "ad_archive_id": "782910482019287",
+    "page_id": "109283749201921",
+    "page_name": "MySivi / Sivi.ai",
+    "is_active": true,
+    "start_date": "2024-03-25",
+    "publisher_platforms": ["facebook", "instagram"],
+    "snapshot": {
+      "title": "Not Another Generic Canva Template",
+      "body": "Tired of generic templates that everyone else on your feed is using? Sivi doesn't recycle templates. Our generative AI engine builds custom graphic compositions from your prompt, tailored to your exact brand guidelines and dimensions.",
+      "caption": "sivi.ai/generative-design-engine",
+      "cta_text": "Sign Up",
+      "link_url": "https://sivi.ai/engine",
+      "images": [
+        {
+          "original_image_url": "https://sivi.ai/assets/ads/template-vs-generative-ai.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "ad_archive_id": "782910482019288",
+    "page_id": "109283749201921",
+    "page_name": "MySivi / Sivi.ai",
+    "is_active": true,
+    "start_date": "2024-04-01",
+    "publisher_platforms": ["facebook", "instagram"],
+    "snapshot": {
+      "title": "Crush Creative Fatigue with 50 Fresh Ads Weekly",
+      "body": "Ad fatigue killing your Facebook CPA? Sivi AI allows digital agencies and media buyers to generate dozens of high-converting banner variations in minutes. Test more hooks, find winning creatives faster, and scale with confidence.",
+      "caption": "sivi.ai/performance-marketing",
+      "cta_text": "Try It Free",
+      "link_url": "https://sivi.ai/agency",
+      "images": [
+        {
+          "original_image_url": "https://sivi.ai/assets/ads/ad-fatigue-solution.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "ad_archive_id": "782910482019284",
+    "page_id": "109283749201921",
+    "page_name": "MySivi / Sivi.ai",
+    "is_active": true,
+    "start_date": "2024-03-10",
+    "publisher_platforms": ["facebook", "instagram"],
+    "snapshot": {
+      "title": "Instant AI Graphic Designer - 2 Minute Creatives",
+      "body": "Turn any text into stunning banners in 2 minutes flat! 🚀 No design skills needed. Just type your message, choose your brand colors, and let Sivi AI compose multi-format ad graphics ready to publish on Facebook, Instagram, and Google.",
+      "caption": "sivi.ai/instant-banner",
+      "cta_text": "Try For Free",
+      "link_url": "https://sivi.ai/?ref=fb_ads",
+      "images": [
+        {
+          "original_image_url": "https://sivi.ai/assets/ads/ai-banner-generator-preview-1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "ad_archive_id": "999999999999999",
+    "page_id": "109283749201921",
+    "page_name": "MySivi / Sivi.ai",
+    "is_active": false,
+    "snapshot": {
+      "title": "",
+      "body": "",
+      "caption": "",
+      "cta_text": ""
+    }
+  },
+  {
+    "ad_archive_id": "782910482019289",
+    "page_id": "109283749201921",
+    "page_name": "MySivi / Sivi.ai",
+    "is_active": true,
+    "start_date": "2024-04-05",
+    "publisher_platforms": ["facebook", "instagram"],
+    "snapshot": {
+      "title": "Cut Banner Turnaround from 3 Days to 15 Minutes",
+      "body": "Designers and agency teams: Waiting 3 days for banner revisions is officially over. Sivi generates clean, layered vector designs from copy. Need to adjust text, swap an image, or reposition a logo? Edit directly in our intuitive canvas and export in high resolution.",
+      "caption": "sivi.ai/agency-workflow",
+      "cta_text": "Explore Features",
+      "link_url": "https://sivi.ai/features",
+      "images": [
+        {
+          "original_image_url": "https://sivi.ai/assets/ads/editable-canvas-layers.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "ad_archive_id": "782910482019290",
+    "page_id": "109283749201921",
+    "page_name": "MySivi / Sivi.ai",
+    "is_active": true,
+    "start_date": "2024-04-10",
+    "publisher_platforms": ["facebook", "instagram"],
+    "snapshot": {
+      "title": "Multi-Format AI Graphic Generator for Marketers",
+      "body": "Generate Facebook feeds, Instagram stories, Google display responsive ads, and YouTube thumbnails from a single prompt. Sivi adapts layout and visual hierarchy intelligently for each aspect ratio. Experience real generative design today.",
+      "caption": "sivi.ai/multi-format",
+      "cta_text": "Start Free",
+      "link_url": "https://sivi.ai/generator",
+      "images": [
+        {
+          "original_image_url": "https://sivi.ai/assets/ads/multi-format-display.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "ad_archive_id": "782910482019291",
+    "page_id": "109283749201921",
+    "page_name": "MySivi / Sivi.ai",
+    "is_active": true,
+    "start_date": "2024-04-12",
+    "publisher_platforms": ["facebook", "instagram"],
+    "snapshot": {
+      "title": "Your Brand, Your Rules - AI Graphic Consistency",
+      "body": "Worried AI won't match your company identity? Lock your brand fonts, official color palettes, and logos into Sivi's Brand Kit. Every banner generated stays 100% on-brand and compliance-ready.",
+      "caption": "sivi.ai/brand-kit",
+      "cta_text": "Try Brand Kit",
+      "link_url": "https://sivi.ai/brand-kit",
+      "images": [
+        {
+          "original_image_url": "https://sivi.ai/assets/ads/brand-kit-compliance.jpg"
+        }
+      ]
+    }
+  }
+]
+

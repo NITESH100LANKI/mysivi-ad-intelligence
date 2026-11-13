@@ -1,0 +1,48 @@
+# Environments, secrets and keys
+.env
+*.env.local
+*.key
+*.token
+
+# Python & testing cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# n8n local runtime state
+.n8n/
+n8n_data/
+
+# Intermediate and raw data (only fixtures and canonical results tracked)
+data/raw/
+data/processed/
+data/fonts/
+
+# Intermediate reports and inspection proofs (only final PDF tracked)
+reports/*.png
+reports/test_*
+
+# Previous workflow versions / backups (only v6 is tracked)
+n8n/*.backup.json
+n8n/mysivi_ad_intelligence_workflow.json
+n8n/mysivi_ad_intelligence_workflow_v2.json
+n8n/mysivi_ad_intelligence_workflow_v3.json
+n8n/mysivi_ad_intelligence_workflow_v4.json
+n8n/mysivi_ad_intelligence_workflow_v5.json
+
+# Local helper scripts
+scripts/
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.log
